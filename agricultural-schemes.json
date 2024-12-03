@@ -125,6 +125,13 @@
             "more_details_link": "https://www.myscheme.gov.in/schemes/ae"
         }
     ],
-    "state": [],
+    "state": [
+        { 
+            "name": "Scheme A",
+            "description": "Details A",
+            "state": "Madhya Pradesh",
+            "more_details_link": "..."
+        },
+    ],
     "private": []
 }
