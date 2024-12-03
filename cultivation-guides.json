@@ -1,4 +1,4 @@
-"guides": [
+{"guides": [
         {
             "name": "In-Depth Guide on Wheat Cultivation",
             "description": "Wheat is a staple crop grown primarily in northern and central India. It is a Rabi crop requiring cool weather during its growth stages and warmer conditions at maturity. Major wheat-producing states include Uttar Pradesh, Punjab, Haryana, Rajasthan, and Madhya Pradesh.",
@@ -150,3 +150,4 @@
             "link": "https://drive.google.com/file/d/1AkYAvy7LD3duJPtQvlJ65MKzD6OVRQHf/view?usp=drive_link"
         }
     ]
+}
