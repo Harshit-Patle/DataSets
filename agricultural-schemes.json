@@ -1,5 +1,5 @@
 {
-    "agricultural_schemes": [
+    "central": [
         {
             "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
             "description": "PM-KISAN is a central sector scheme launched on 24th February 2019 to supplement financial needs of land holding farmers, subject to exclusions. Under the scheme, financial benefit of Rs. 6000/- per year is transferred in three equal four-monthly installments into the bank accounts of farmers’ families across the country, through Direct Benefit Transfer (DBT) mode. Till now,Rs.2.81 lakh crores have been transferred through Direct Benefit Transfer (DBT) to more than 11 crores beneficiaries (Farmers) through various instalments.",
@@ -124,5 +124,7 @@
             "description": "The scheme aims to make the agricultural extension system farmer-driven and accountable by disseminating technology through the Agricultural Technology Management Agency (ATMA) at the district level, fostering participatory extension reforms. Digital initiatives include VISTAAR, a DPI for integrated access to agricultural resources; Apurva AI, a peer-to-peer learning platform capturing farmer innovations and providing advisory content; and Wadhwani-Krishi 24x7 for real-time news and pest identification. Additional efforts include integrating Kisan Call Centres and RAWE (agricultural student feedback) with VISTAAR, delivering weather forecasts via DAMU, and building capacity for decentralized extension mechanisms like Krishi Sakhi and Pashu Sakhi through VISTAAR.",
             "more_details_link": "https://www.myscheme.gov.in/schemes/ae"
         }
-    ]
+    ],
+    "state": [],
+    "private": []
 }
