@@ -126,114 +126,114 @@
         }
     ],
     "state": [
-        { 
+        {
             "name": "Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Protsahan Yojna",
             "description": "The MP Fasal Vividhikaran Yojana is a government initiative in Madhya Pradesh aimed at promoting crop diversification to reduce dependence on traditional crops like wheat and rice. It encourages farmers to adopt less water-intensive and high-value crops such as pulses, oilseeds, and horticultural produce, which can lead to increased income and economic stability. The scheme offers multiple benefits, including financial aid, subsidies for seeds and fertilizers, technical guidance, and access to better market linkages. These measures not only improve farmers' profitability but also promote water conservation, enhance soil health, and reduce environmental degradation. By fostering sustainable agriculture, the scheme helps mitigate risks from climate change and market fluctuations, ensuring long-term benefits for farmers and the agricultural ecosystem.",
             "state": "Madhya Pradesh",
             "more_details_link": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/06062022_order.pdf"
-        },
-	{ 
+        },
+        {
             "name": "Annapurna evam Surajdhara Yojna",
             "description": "The Annapurna Evam Surajdhara Yojana is an initiative by the Madhya Pradesh government aimed at promoting sustainable agricultural practices, ensuring food security, and empowering women in rural areas. This scheme provides financial support, subsidies for seeds and fertilizers, and training in eco-friendly farming methods. It also focuses on water conservation through techniques like drip irrigation and rainwater harvesting. Additionally, it encourages women’s participation in agro-industries and self-help groups to boost their income and socio-economic status. By enhancing agricultural productivity and supporting women-led enterprises, the scheme strives for rural development and sustainable growth.",
             "state": "Madhya Pradesh",
             "more_details_link": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/Annapurna.pdf"
-        },
-	{ 
+        },
+        {
             "name": "Nalkoop Khanan Yojna",
             "description": "The Nalkoop Khanan Yojana is a government initiative in Madhya Pradesh to support farmers by providing financial aid and technical assistance for digging borewells, ensuring access to groundwater for irrigation. The scheme prioritizes small and marginal farmers, enabling them to adopt efficient irrigation methods like drip and sprinkler systems to conserve water. By reducing dependence on monsoons, it facilitates year-round farming, boosts crop yields, and increases farmer incomes, contributing to sustainable agricultural development and improved livelihoods in rural areas.",
             "state": "Madhya Pradesh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/nkymp"
-        },
-	{ 
+        },
+        {
             "name": "Mrida Parikshan (Soil Testing) and Mrida Swasthya (Soil Health) scheme",
             "description": "In Madhya Pradesh, the Mrida Parikshan (Soil Testing) and Mrida Swasthya (Soil Health) schemes are key initiatives to enhance agricultural productivity and sustainability. Under these programs, soil samples are tested to assess nutrient levels, pH balance, and fertility, and farmers are provided with Soil Health Cards containing tailored recommendations for optimal crop selection and fertilizer use. The schemes aim to minimize excessive chemical usage, reduce input costs, and improve yields while maintaining soil health. By promoting sustainable farming practices, these initiatives contribute to long-term agricultural development and environmental conservation in the state.",
             "state": "Madhya Pradesh",
             "more_details_link": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/SoilTesting_New.pdf"
-        },
-{ 
+        },
+        {
             "name": "Quality Control and Testing Laboratories",
             "description": "In Madhya Pradesh, the government has set up Quality Control and Testing Laboratories as part of various agricultural schemes to ensure the quality and safety of inputs like seeds, fertilizers, pesticides, and soil health. These laboratories play a crucial role in the Mrida Parikshan (Soil Testing) and Mrida Swasthya (Soil Health) initiatives by analyzing soil samples and providing farmers with tailored recommendations. Additionally, they support the MP Fasal Vividhikaran Yojana by ensuring the quality of agricultural products and inputs, promoting sustainable farming practices, and enhancing crop yields. These testing labs ensure compliance with standards, safeguard public health, and help farmers make informed decisions to improve productivity and environmental sustainability.",
             "state": "Madhya Pradesh",
             "more_details_link": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/Laboratory.pdf"
-        },
-	{ 
+        },
+        {
             "name": "Krishak Durghatna Kalyan Yojana",
             "description": "Under this scheme, while expanding the definition of a farmer, along with the Khatauni registered account holder / co-account holder, such earning members of their family whose main source of livelihood is agricultural income from the land registered in the name of the account holder / co-account holder and such landless persons. Those who do agricultural work on the land obtained on lease or on share and whose main means of livelihood is agriculture on the land taken on such lease or share have also been included.",
             "state": "Uttar Pradesh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/kdky"
-        },
-	{ 
+        },
+        {
             "name": "Mukhyamantri Svadeshi Gau Samvardhan Yojana",
             "description": "The 'Mukhyamantri Svadeshi Gau Samvardhan Yojana' under the 'Nand Baba Milk Mission' aims to enhance milk productivity and per capita milk availability in Uttar Pradesh by encouraging the purchase of indigenous improved breed cows from outside the state. The scheme seeks to increase the number of indigenous improved breed cows, improve their breeds, and provide employment opportunities in rural areas through animal husbandry. This scheme will be implemented in all the districts of the state.",
             "state": "Uttar Pradesh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/msgsy"
-        },
-	{ 
+        },
+        {
             "name": "Mukhyamantri Pragatishil Pashupalak Protsahan Yojana",
             "description": "The 'Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana' is an initiative under the 'Nand Baba Milk Mission' for breed improvement in indigenous cows and an increase in milk productivity. Uttar Pradesh is the leading state in the country in milk production. This scheme will be applicable in all the districts of the state.",
             "state": "Uttar Pradesh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/mpppy"
-        },
-	{ 
+        },
+        {
             "name": "Mukhyamantri Kisaan Kalyaan Yojana",
             "description": "Mukhyamantri Kisan Kalyan Yojana has been started by the Government of Madhya Pradesh for all the poor farmers of MP. The objective of this important scheme is to improve the economic condition of the farmers and provide them sufficient amount for farming. Many times farmers need money to maintain farming, for which Kisan Kalyan Yojana has been started.Chief Minister Kisan Kalyan Yojana is to fulfill the concept of making agriculture a profitable business, to use advanced technology for agriculture, to fulfill the objective of increasing the income of farmers and to make the farmers of the state self-reliant.",
             "state": "Madhya Pradesh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/mkky"
-        },
-	{ 
+        },
+        {
             "name": "Chief Minister Agriculture and Food Processing Scheme",
             "description": "Chief Minister Agriculture and Food Processing Scheme is being implemented in the state since 2017-18 which  has been extended for the next five years till the year 2026-27 as per the government resolution dated 17 May 2022.  The main objectives of the scheme are to encourage model technology based projects and quality enhancement of agriculture produce, to encourage exports, to create skill manpower for agro and food processing and employment generation through small and medium agro and food processing units in rural areas.",
             "state": "Maharashtra",
             "more_details_link": "https://www.myscheme.gov.in/schemes/chief-minister-agriculture-and-food-processing-scheme"
-        },
-	{ 
+        },
+        {
             "name": "Chief Minister Sustainable Agriculture Irrigation Scheme - Magel Tyala Shettale (Individual Farm Pond)",
             "description": "Chief Minister Sustainable Agriculture Irrigation Scheme-Magel Tyala Shettale (Individual Farm Pond) has been launched by Ministry of Agriculture, Animal Husbandry,Dairy Development &Fishries Department, Maharashtra State in the year 2022-23 (vide G.R.Dated 29 th June, 2022).Under this scheme subsidy payable to individual farmer is minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond.",
             "state": "Maharashtra",
             "more_details_link": "https://www.myscheme.gov.in/schemes/chief-minister-sustainable-agriculture-irrigation-scheme"
-        },
-	{ 
+        },
+        {
             "name": "Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana",
             "description": "Farmers are prone to various accidents while performing farming business. Due to death/ disability of earning head of family the family members of farmers have to face critical financial situation.The said scheme will be applicable for 24 hours of every day during the prescribed period.Farmers who are registered account holders and any 1 member of farmer's family who is not registered as registered account holder shall remain eligible for benefits under the scheme even if any of these persons suffer an accident or disability.",
             "state": "Maharashtra",
             "more_details_link": "https://www.myscheme.gov.in/schemes/gopinath-munde-shetkari-apghat-suraksha-sanugrah-audhan-yojana"
-        },
-	{ 
+        },
+        {
             "name": "Kisan Samriddhi Yojana - Chhattisgarh",
             "description": "This scheme provide grant to farmers on tube well mining and pump installation. The main objective of the scheme is to increase the productivity and crop intensity by making proper use of available ground water through tube wells and providing irrigation facilities to the crops.",
             "state": "Chhattisgarh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/ksych"
-        },
-	{ 
+        },
+        {
             "name": "Rajiv Gandhi Gramin Bhoomihin Krishi Majdoor Nyay Yojana",
             "description": "The objective of the scheme:-To identify landless agricultural laborer families in Gram Panchayat and Nagar Panchayat and provide financial grants to landless agricultural laborer families on an annual basis.To increase the net income of landless agricultural labor families through financial grants",
             "state": "Chhattisgarh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/rggbkmny"
-        },
-	{ 
+        },
+        {
             "name": "Rajiv Gandhi Kisan Nyay Yojana",
             "description": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers and launched on May 21, 2020, on the death anniversary of Rajiv Gandhi.The main objective of this scheme is to increase the agricultural area by encouraging the farmers for crop production.Under this scheme, financial benefits will be transferred to the farmers. This amount will be transferred to the accounts of the farmers in 4 instalments. This scheme started during the Corona period has provided great relief to the farmers. In the initial year of the scheme, only paddy, maize and sugarcane crops were included but after that",
             "state": "Chhattisgarh",
             "more_details_link": "https://www.myscheme.gov.in/schemes/rgkny"
-        },
-	{ 
+        },
+        {
             "name": "Agricultural Activities for Persons with Disabilities",
             "description": "The scheme 'Agricultural Activities for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹10,00,000/- are provided to individuals identified as persons with disabilities for agricultural production, irrigation, horticulture, sericulture, the purchase of agricultural machinery and equipment for agricultural services, and the marketing of agricultural products etc. Permanent residents of Haryana, aged 18 years or older, with a disability of 40% or more, are eligible under this scheme.",
             "state": "Haryana",
             "more_details_link": "https://www.myscheme.gov.in/schemes/aapd"
-        },
-	{ 
+        },
+        {
             "name": "Scheme for Providing Employment Opportunities by Establishing Piggery, Sheep and Goat Units (General) under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
             "description": "The scheme “Scheme for Providing Employment Opportunities by Establishing Piggery, Sheep and Goat Units (General) under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana.  Under this scheme, an unemployed resident of Haryana who is between 18 and 60 years of age can avail a 25% subsidy on the cost of livestock, provided they have taken a loan for establishing a 10+1 Piggery unit or a 15+1 Sheep/Goat unit.",
             "state": "Haryana",
             "more_details_link": "https://www.myscheme.gov.in/schemes/speoepsgugmmapuy"
-        },
-	{ 
+        },
+        {
             "name": "Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
             "description": "The scheme “Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana. Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep. Any unemployed resident of Haryana aged between 18 and 60 years is eligible to avail of the benefits under this scheme.",
             "state": "Haryana",
             "more_details_link": "https://www.myscheme.gov.in/schemes/sebpummapuy"
-        }
+        }
     ],
     "private": []
 }
