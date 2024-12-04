@@ -1,8 +1,6 @@
 {
   "Profile": {
-    "MobileNumber": "9876543210",
-    "Details": [
-      {
+     "9876543210": {
         "Name": "John Doe",
         "Email": "john.doe@example.com",
         "Number": "9876543210",
@@ -11,7 +9,7 @@
         "Gender": "Male",
         "Password": "password123"
       },
-      {
+     "8765432109": {
         "Name": "Jane Smith",
         "Email": "jane.smith@example.com",
         "Number": "8765432109",
@@ -20,6 +18,5 @@
         "Gender": "Female",
         "Password": "securepass456"
       }
-    ]
   }
 }
