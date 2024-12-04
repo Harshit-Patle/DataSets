@@ -1,0 +1,32 @@
+{
+  "BhooMandol": {
+    "LandForRent": [
+      {
+        "Name": "Green Acres",
+        "Size": "10 acres",
+        "Location": "Springfield",
+        "Cost": "₹150,000/month"
+      },
+      {
+        "Name": "Sunny Fields",
+        "Size": "5 acres",
+        "Location": "Shelbyville",
+        "Cost": "₹110,000/month"
+      }
+    ],
+    "LandForCollab": [
+      {
+        "Name": "Blue Horizon",
+        "Size": "8 acres",
+        "Location": "Ogdenville",
+        "Deposit": "₹400,000"
+      },
+      {
+        "Name": "Golden Valley",
+        "Size": "12 acres",
+        "Location": "North Haverbrook",
+        "Deposit": "₹550,000"
+      }
+    ]
+  }
+}

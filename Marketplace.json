@@ -1,0 +1,522 @@
+{
+  "MarketPlace": {
+    "Shop": {
+      "FreshFruitAndVegetable": [
+        {
+          "Name": "Apple",
+          "Price": "₹150/kg",
+          "Description": "Fresh and juicy apples",
+          "Image": "http://example.com/apple.jpg"
+        },
+        {
+          "Name": "Carrot",
+          "Price": "₹50/kg",
+          "Description": "Organic carrots",
+          "Image": "http://example.com/carrot.jpg"
+        },
+        {
+          "Name": "Banana",
+          "Price": "₹40/dozen",
+          "Description": "Ripe bananas",
+          "Image": "http://example.com/banana.jpg"
+        },
+        {
+          "Name": "Tomato",
+          "Price": "₹30/kg",
+          "Description": "Fresh tomatoes",
+          "Image": "http://example.com/tomato.jpg"
+        }
+      ],
+      "SidesAndOils": [
+        {
+          "Name": "Olive Oil",
+          "Price": "₹500/liter",
+          "Description": "Extra virgin olive oil",
+          "Image": "http://example.com/olive_oil.jpg"
+        },
+        {
+          "Name": "Sunflower Oil",
+          "Price": "₹200/liter",
+          "Description": "Pure sunflower oil",
+          "Image": "http://example.com/sunflower_oil.jpg"
+        },
+        {
+          "Name": "Coconut Oil",
+          "Price": "₹300/liter",
+          "Description": "Organic coconut oil",
+          "Image": "http://example.com/coconut_oil.jpg"
+        },
+        {
+          "Name": "Mustard Oil",
+          "Price": "₹150/liter",
+          "Description": "Cold-pressed mustard oil",
+          "Image": "http://example.com/mustard_oil.jpg"
+        }
+      ],
+      "DryFruitsAndSpices": [
+        {
+          "Name": "Almonds",
+          "Price": "₹800/kg",
+          "Description": "Premium quality almonds",
+          "Image": "http://example.com/almonds.jpg"
+        },
+        {
+          "Name": "Cinnamon",
+          "Price": "₹300/kg",
+          "Description": "Organic cinnamon sticks",
+          "Image": "http://example.com/cinnamon.jpg"
+        },
+        {
+          "Name": "Cashews",
+          "Price": "₹900/kg",
+          "Description": "Whole cashew nuts",
+          "Image": "http://example.com/cashews.jpg"
+        },
+        {
+          "Name": "Black Pepper",
+          "Price": "₹600/kg",
+          "Description": "Whole black peppercorns",
+          "Image": "http://example.com/black_pepper.jpg"
+        }
+      ],
+      "SoilAndFertilizers": [
+        {
+          "Name": "Potting Soil",
+          "Price": "₹100/bag",
+          "Description": "High-quality potting soil",
+          "Image": "http://example.com/potting_soil.jpg"
+        },
+        {
+          "Name": "Organic Fertilizer",
+          "Price": "₹250/bag",
+          "Description": "Natural organic fertilizer",
+          "Image": "http://example.com/organic_fertilizer.jpg"
+        },
+        {
+          "Name": "Compost",
+          "Price": "₹150/bag",
+          "Description": "Rich compost for plants",
+          "Image": "http://example.com/compost.jpg"
+        },
+        {
+          "Name": "Vermicompost",
+          "Price": "₹200/bag",
+          "Description": "Nutrient-rich vermicompost",
+          "Image": "http://example.com/vermicompost.jpg"
+        }
+      ],
+      "Pesticides": [
+        {
+          "Name": "Neem Oil",
+          "Price": "₹150/bottle",
+          "Description": "Natural pesticide",
+          "Image": "http://example.com/neem_oil.jpg"
+        },
+        {
+          "Name": "Insecticide",
+          "Price": "₹200/bottle",
+          "Description": "Effective insecticide",
+          "Image": "http://example.com/insecticide.jpg"
+        },
+        {
+          "Name": "Fungicide",
+          "Price": "₹250/bottle",
+          "Description": "Broad-spectrum fungicide",
+          "Image": "http://example.com/fungicide.jpg"
+        },
+        {
+          "Name": "Herbicide",
+          "Price": "₹300/bottle",
+          "Description": "Selective herbicide",
+          "Image": "http://example.com/herbicide.jpg"
+        }
+      ],
+      "GardeningTools": [
+        {
+          "Name": "Pruning Shears",
+          "Price": "₹300",
+          "Description": "High-quality pruning shears",
+          "Image": "http://example.com/pruning_shears.jpg"
+        },
+        {
+          "Name": "Garden Hoe",
+          "Price": "₹150",
+          "Description": "Durable garden hoe",
+          "Image": "http://example.com/garden_hoe.jpg"
+        },
+        {
+          "Name": "Rake",
+          "Price": "₹200",
+          "Description": "Sturdy garden rake",
+          "Image": "http://example.com/rake.jpg"
+        },
+        {
+          "Name": "Trowel",
+          "Price": "₹100",
+          "Description": "Handy garden trowel",
+          "Image": "http://example.com/trowel.jpg"
+        }
+      ],
+      "FarmEquipments": [
+        {
+          "Name": "Tractor",
+          "Price": "₹500,000",
+          "Description": "Powerful farm tractor",
+          "Image": "http://example.com/tractor.jpg"
+        },
+        {
+          "Name": "Plough",
+          "Price": "₹50,000",
+          "Description": "Heavy-duty plough",
+          "Image": "http://example.com/plough.jpg"
+        },
+        {
+          "Name": "Harvester",
+          "Price": "₹1,000,000",
+          "Description": "Efficient crop harvester",
+          "Image": "http://example.com/harvester.jpg"
+        },
+        {
+          "Name": "Seeder",
+          "Price": "₹200,000",
+          "Description": "Automatic seeder",
+          "Image": "http://example.com/seeder.jpg"
+        }
+      ],
+      "PumpsAndSprayers": [
+        {
+          "Name": "Water Pump",
+          "Price": "₹10,000",
+          "Description": "Efficient water pump",
+          "Image": "http://example.com/water_pump.jpg"
+        },
+        {
+          "Name": "Sprayer",
+          "Price": "₹2,000",
+          "Description": "Handheld sprayer",
+          "Image": "http://example.com/sprayer.jpg"
+        },
+        {
+          "Name": "Irrigation Pump",
+          "Price": "₹15,000",
+          "Description": "High-capacity irrigation pump",
+          "Image": "http://example.com/irrigation_pump.jpg"
+        },
+        {
+          "Name": "Mist Sprayer",
+          "Price": "₹3,000",
+          "Description": "Fine mist sprayer",
+          "Image": "http://example.com/mist_sprayer.jpg"
+        }
+      ],
+      "PotsAndTrays": [
+        {
+          "Name": "Clay Pot",
+          "Price": "₹100",
+          "Description": "Eco-friendly clay pot",
+          "Image": "http://example.com/clay_pot.jpg"
+        },
+        {
+          "Name": "Seed Tray",
+          "Price": "₹50",
+          "Description": "Durable seed tray",
+          "Image": "http://example.com/seed_tray.jpg"
+        },
+        {
+          "Name": "Plastic Pot",
+          "Price": "₹30",
+          "Description": "Lightweight plastic pot",
+          "Image": "http://example.com/plastic_pot.jpg"
+        },
+        {
+          "Name": "Hanging Basket",
+          "Price": "₹150",
+          "Description": "Decorative hanging basket",
+          "Image": "http://example.com/hanging_basket.jpg"
+        }
+      ],
+      "Machineries": [
+        {
+          "Name": "Harvester",
+          "Price": "₹1,000,000",
+          "Description": "Efficient crop harvester",
+          "Image": "http://example.com/harvester.jpg"
+        },
+        {
+          "Name": "Seeder",
+          "Price": "₹200,000",
+          "Description": "Automatic seeder",
+          "Image": "http://example.com/seeder.jpg"
+        },
+        {
+          "Name": "Tractor",
+          "Price": "₹500,000",
+          "Description": "Powerful farm tractor",
+          "Image": "http://example.com/tractor.jpg"
+        },
+        {
+          "Name": "Plough",
+          "Price": "₹50,000",
+          "Description": "Heavy-duty plough",
+          "Image": "http://example.com/plough.jpg"
+        }
+      ],
+      "Others": [
+        {
+          "Name": "Compost Bin",
+          "Price": "₹1,500",
+          "Description": "Eco-friendly compost bin",
+          "Image": "http://example.com/compost_bin.jpg"
+        },
+        {
+          "Name": "Greenhouse",
+          "Price": "₹50,000",
+          "Description": "Portable greenhouse",
+          "Image": "http://example.com/greenhouse.jpg"
+        },
+        {
+          "Name": "Garden Bench",
+          "Price": "₹2,000",
+          "Description": "Comfortable garden bench",
+          "Image": "http://example.com/garden_bench.jpg"
+        },
+        {
+          "Name": "Bird Feeder",
+          "Price": "₹500",
+          "Description": "Decorative bird feeder",
+          "Image": "http://example.com/bird_feeder.jpg"
+        }
+      ]
+    },
+    "Borrow": {
+      "GardeningTools": [
+        {
+          "ItemName": "Pruning Shears",
+          "Description": "High-quality pruning shears",
+          "Quantity": 5,
+          "ProductImage": "http://example.com/pruning_shears.jpg",
+          "ProductCategory": "Gardening Tools",
+          "Price": "₹50/day",
+          "Duration": "7 days"
+        },
+        {
+          "ItemName": "Garden Hoe",
+          "Description": "Durable garden hoe",
+          "Quantity": 10,
+          "ProductImage": "http://example.com/garden_hoe.jpg",
+          "ProductCategory": "Gardening Tools",
+          "Price": "₹30/day",
+          "Duration": "5 days"
+        },
+        {
+          "ItemName": "Rake",
+          "Description": "Sturdy garden rake",
+          "Quantity": 8,
+          "ProductImage": "http://example.com/rake.jpg",
+          "ProductCategory": "Gardening Tools",
+          "Price": "₹40/day",
+          "Duration": "6 days"
+        },
+        {
+          "ItemName": "Trowel",
+          "Description": "Handy garden trowel",
+          "Quantity": 15,
+          "ProductImage": "http://example.com/trowel.jpg",
+          "ProductCategory": "Gardening Tools",
+          "Price": "₹20/day",
+          "Duration": "4 days"
+        }
+      ],
+      "FarmEquipment": [
+        {
+          "ItemName": "Tractor",
+          "Description": "Powerful farm tractor",
+          "Quantity": 2,
+          "ProductImage": "http://example.com/tractor.jpg",
+          "ProductCategory": "Farm Equipment",
+          "Price": "₹5,000/day",
+          "Duration": "30 days"
+        },
+        {
+          "ItemName": "Plough",
+          "Description": "Heavy-duty plough",
+          "Quantity": 3,
+          "ProductImage": "http://example.com/plough.jpg",
+          "ProductCategory": "Farm Equipment",
+          "Price": "₹1,000/day",
+          "Duration": "20 days"
+        },
+        {
+          "ItemName": "Harvester",
+          "Description": "Efficient crop harvester",
+          "Quantity": 1,
+          "ProductImage": "http://example.com/harvester.jpg",
+          "ProductCategory": "Farm Equipment",
+          "Price": "₹10,000/day",
+          "Duration": "60 days"
+        },
+        {
+          "ItemName": "Seeder",
+          "Description": "Automatic seeder",
+          "Quantity": 4,
+          "ProductImage": "http://example.com/seeder.jpg",
+          "ProductCategory": "Farm Equipment",
+          "Price": "₹2,000/day",
+          "Duration": "25 days"
+        }
+      ],
+      "PumpsAndSprayers": [
+        {
+          "ItemName": "Water Pump",
+          "Description": "Efficient water pump",
+          "Quantity": 3,
+          "ProductImage": "http://example.com/water_pump.jpg",
+          "ProductCategory": "Pumps & Sprayers",
+          "Price": "₹500/day",
+          "Duration": "15 days"
+        },
+        {
+          "ItemName": "Sprayer",
+          "Description": "Handheld sprayer",
+          "Quantity": 6,
+          "ProductImage": "http://example.com/sprayer.jpg",
+          "ProductCategory": "Pumps & Sprayers",
+          "Price": "₹200/day",
+          "Duration": "10 days"
+        },
+        {
+          "ItemName": "Irrigation Pump",
+          "Description": "High-capacity irrigation pump",
+          "Quantity": 2,
+          "ProductImage": "http://example.com/irrigation_pump.jpg",
+          "ProductCategory": "Pumps & Sprayers",
+          "Price": "₹700/day",
+          "Duration": "20 days"
+        },
+        {
+          "ItemName": "Mist Sprayer",
+          "Description": "Fine mist sprayer",
+          "Quantity": 4,
+          "ProductImage": "http://example.com/mist_sprayer.jpg",
+          "ProductCategory": "Pumps & Sprayers",
+          "Price": "₹300/day",
+          "Duration": "12 days"
+        }
+      ],
+      "PotsAndTrays": [
+        {
+          "ItemName": "Clay Pot",
+          "Description": "Eco-friendly clay pot",
+          "Quantity": 20,
+          "ProductImage": "http://example.com/clay_pot.jpg",
+          "ProductCategory": "Pots & Trays",
+          "Price": "₹10/day",
+          "Duration": "10 days"
+        },
+        {
+          "ItemName": "Seed Tray",
+          "Description": "Durable seed tray",
+          "Quantity": 30,
+          "ProductImage": "http://example.com/seed_tray.jpg",
+          "ProductCategory": "Pots & Trays",
+          "Price": "₹5/day",
+          "Duration": "7 days"
+        },
+        {
+          "ItemName": "Plastic Pot",
+          "Description": "Lightweight plastic pot",
+          "Quantity": 25,
+          "ProductImage": "http://example.com/plastic_pot.jpg",
+          "ProductCategory": "Pots & Trays",
+          "Price": "₹8/day",
+          "Duration": "9 days"
+        },
+        {
+          "ItemName": "Hanging Basket",
+          "Description": "Decorative hanging basket",
+          "Quantity": 10,
+          "ProductImage": "http://example.com/hanging_basket.jpg",
+          "ProductCategory": "Pots & Trays",
+          "Price": "₹15/day",
+          "Duration": "8 days"
+        }
+      ],
+      "Machineries": [
+        {
+          "ItemName": "Harvester",
+          "Description": "Efficient crop harvester",
+          "Quantity": 1,
+          "ProductImage": "http://example.com/harvester.jpg",
+          "ProductCategory": "Machineries",
+          "Price": "₹10,000/day",
+          "Duration": "60 days"
+        },
+        {
+          "ItemName": "Seeder",
+          "Description": "Automatic seeder",
+          "Quantity": 4,
+          "ProductImage": "http://example.com/seeder.jpg",
+          "ProductCategory": "Machineries",
+          "Price": "₹2,000/day",
+          "Duration": "25 days"
+        },
+        {
+          "ItemName": "Tractor",
+          "Description": "Powerful farm tractor",
+          "Quantity": 2,
+          "ProductImage": "http://example.com/tractor.jpg",
+          "ProductCategory": "Machineries",
+          "Price": "₹5,000/day",
+          "Duration": "30 days"
+        },
+        {
+          "ItemName": "Plough",
+          "Description": "Heavy-duty plough",
+          "Quantity": 3,
+          "ProductImage": "http://example.com/plough.jpg",
+          "ProductCategory": "Machineries",
+          "Price": "₹1,000/day",
+          "Duration": "20 days"
+        }
+      ],
+      "Others": [
+        {
+          "ItemName": "Compost Bin",
+          "Description": "Eco-friendly compost bin",
+          "Quantity": 10,
+          "ProductImage": "http://example.com/compost_bin.jpg",
+          "ProductCategory": "Others",
+          "Price": "₹100/day",
+          "Duration": "5 days"
+        },
+        {
+          "ItemName": "Greenhouse",
+          "Description": "Portable greenhouse",
+          "Quantity": 2,
+          "ProductImage": "http://example.com/greenhouse.jpg",
+          "ProductCategory": "Others",
+          "Price": "₹1,000/day",
+          "Duration": "30 days"
+        },
+        {
+          "ItemName": "Garden Bench",
+          "Description": "Comfortable garden bench",
+          "Quantity": 5,
+          "ProductImage": "http://example.com/garden_bench.jpg",
+          "ProductCategory": "Others",
+          "Price": "₹50/day",
+          "Duration": "10 days"
+        },
+        {
+          "ItemName": "Bird Feeder",
+          "Description": "Decorative bird feeder",
+          "Quantity": 15,
+          "ProductImage": "http://example.com/bird_feeder.jpg",
+          "ProductCategory": "Others",
+          "Price": "₹20/day",
+          "Duration": "7 days"
+        }
+      ]
+    }
+  }
+}

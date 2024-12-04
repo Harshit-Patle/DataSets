@@ -1,0 +1,25 @@
+{
+  "Profile": {
+    "MobileNumber": "9876543210",
+    "Details": [
+      {
+        "Name": "John Doe",
+        "Email": "john.doe@example.com",
+        "Number": "9876543210",
+        "Age": 30,
+        "Address": "123 Green Acres, Springfield",
+        "Gender": "Male",
+        "Password": "password123"
+      },
+      {
+        "Name": "Jane Smith",
+        "Email": "jane.smith@example.com",
+        "Number": "8765432109",
+        "Age": 28,
+        "Address": "456 Sunny Fields, Shelbyville",
+        "Gender": "Female",
+        "Password": "securepass456"
+      }
+    ]
+  }
+}
