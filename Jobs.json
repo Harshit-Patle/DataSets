@@ -27,6 +27,13 @@
       "Address": "Indore, Madhya Pradesh",
       "Description": "Assist with planting, weeding, and harvesting crop",
       "OwnerName": "AgroTech Farms"
+    },
+    {
+      "Title": "Crop Specialist",
+      "SalaryPerDay": "1,300",
+      "Address": "Gwalior, Madhya Pradesh",
+      "Description": "Monitor crop health, provide pest management advice.",
+      "OwnerName": "Rural Agri Solutions"
     }
   ]
 }
