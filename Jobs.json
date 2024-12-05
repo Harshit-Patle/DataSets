@@ -2,7 +2,6 @@
   "Jobs": [
     {
       "Title": "Farm Manager",
-      "NoOfEmployment": 2,
       "SalaryPerDay": "2,000",
       "Address": "123 Green Acres, Springfield",
       "Description": "Manage daily farm operations",
@@ -10,7 +9,6 @@
     },
     {
       "Title": "Field Worker",
-      "NoOfEmployment": 10,
       "SalaryPerDay": "500",
       "Address": "456 Sunny Fields, Shelbyville",
       "Description": "Assist with planting and harvesting",
@@ -18,7 +16,6 @@
     },
     {
       "Title": "Farm Equipment Operator",
-      "NoOfEmployment": 1,
       "SalaryPerDay": "800",
       "Address": "Bhopal, Madhya Pradesh",
       "Description": "GreenField Agriculture Solutions is seeking skilled and motivated individuals to operate and maintain advanced farming equipment. This role is ideal for candidates passionate about modern farming practices and contributing to sustainable agriculture.",
