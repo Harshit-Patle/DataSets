@@ -41,6 +41,13 @@
       "Address": "Ujjain, Madhya Pradesh",
       "Description": "Oversee farm operations, manage staff, and optimize yield.",
       "OwnerName": "GreenHarvest Farms"
+    },
+    {
+      "Title": "Irrigation Technician",
+      "SalaryPerDay": "1,000",
+      "Address": "Jabalpur, Madhya Pradesh",
+      "Description": "Install and maintain irrigation systems for crops.",
+      "OwnerName": "AgriTech Solutions"
     }
   ]
 }
