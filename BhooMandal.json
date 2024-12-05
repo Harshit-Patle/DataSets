@@ -1,62 +1,62 @@
 {
-  "BhooMandal": {
-   "LandForRent": [
-     {
-        "Name": "Green Acres",
-        "Size": "10 acres",
-        "Location": "Springfield",
-        "Cost": "₹150,000/month",
-        "Area": "10 acres",
-        "Address": "123 Green Acres, Springfield",
-        "KhasraNo": "12345",
-        "LocationPin": "http://example.com/map_pin_green_acres",
-        "DisputedLand": "No",
-        "DurationOfRent": "12 months",
-        "PictureOfLand": "link"
-      },
-      {
-        "Name": "Sunny Fields",
-        "Size": "5 acres",
-        "Location": "Shelbyville",
-        "Cost": "₹110,000/month",
-        "Area": "5 acres",
-        "Address": "456 Sunny Fields, Shelbyville",
-        "KhasraNo": "67890",
-        "LocationPin": "http://example.com/map_pin_sunny_fields",
-        "DisputedLand": "No",
-        "DurationOfRent": "6 months",
-        "PictureOfLand": "link"
-      }
-    ],
-    "LandForCollab": [
-      {
-        "Name": "Blue Horizon",
-        "Size": "8 acres",
-        "Location": "Ogdenville",
-        "Deposit": "₹400,000",
-        "Area": "8 acres",
-        "Address": "789 Blue Horizon, Ogdenville",
-        "KhasraNo": "54321",
-        "LocationPin": "http://example.com/map_pin_blue_horizon",
-        "DisputedLand": "No",
-        "DurationOfCollaboration": "24 months",
-        "PictureOfLand": "http://example.com/blue_horizon.jpg",
-        "Purpose": "Organic farming"
-      },
-      {
-        "Name": "Golden Valley",
-        "Size": "12 acres",
-        "Location": "North Haverbrook",
-        "Deposit": "₹550,000",
-        "Area": "12 acres",
-        "Address": "321 Golden Valley, North Haverbrook",
-        "KhasraNo": "98765",
-        "LocationPin": "http://example.com/map_pin_golden_valley",
-        "DisputedLand": "Yes",
-        "DurationOfCollaboration": "36 months",
-        "PictureOfLand": "http://example.com/golden_valley.jpg",
-        "Purpose": "Agroforestry"
-      }
-    ]
-  }
+    "BhooMandal": {
+        "LandForRent": [
+            {
+                "Name": "Green Acres",
+                "Size": "10 acres",
+                "Location": "Springfield",
+                "Cost": "₹150,000/month",
+                "Area": "10 acres",
+                "Address": "123 Green Acres, Springfield",
+                "KhasraNo": "12345",
+                "LocationPin": "http://example.com/map_pin_green_acres",
+                "DisputedLand": "No",
+                "DurationOfRent": "12 months",
+                "PictureOfLand": "link"
+            },
+            {
+                "Name": "Sunny Fields",
+                "Size": "5 acres",
+                "Location": "Shelbyville",
+                "Cost": "₹110,000/month",
+                "Area": "5 acres",
+                "Address": "456 Sunny Fields, Shelbyville",
+                "KhasraNo": "67890",
+                "LocationPin": "http://example.com/map_pin_sunny_fields",
+                "DisputedLand": "No",
+                "DurationOfRent": "6 months",
+                "PictureOfLand": "link"
+            }
+        ],
+        "LandForCollab": [
+            {
+                "Name": "Blue Horizon",
+                "Size": "8 acres",
+                "Location": "Ogdenville",
+                "Deposit": "₹400,000",
+                "Area": "8 acres",
+                "Address": "789 Blue Horizon, Ogdenville",
+                "KhasraNo": "54321",
+                "LocationPin": "http://example.com/map_pin_blue_horizon",
+                "DisputedLand": "No",
+                "DurationOfCollaboration": "24 months",
+                "PictureOfLand": "http://example.com/blue_horizon.jpg",
+                "Purpose": "Organic farming"
+            },
+            {
+                "Name": "Golden Valley",
+                "Size": "12 acres",
+                "Location": "North Haverbrook",
+                "Deposit": "₹550,000",
+                "Area": "12 acres",
+                "Address": "321 Golden Valley, North Haverbrook",
+                "KhasraNo": "98765",
+                "LocationPin": "http://example.com/map_pin_golden_valley",
+                "DisputedLand": "Yes",
+                "DurationOfCollaboration": "36 months",
+                "PictureOfLand": "http://example.com/golden_valley.jpg",
+                "Purpose": "Agroforestry"
+            }
+        ]
+    }
 }
