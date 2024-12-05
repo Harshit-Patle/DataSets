@@ -20,6 +20,13 @@
       "Address": "Bhopal, Madhya Pradesh",
       "Description": "Operate farm equipment; help with crop management.",
       "OwnerName": "GreenField Agriculture Solutions"
+    },
+    {
+      "Title": "Agricultural Laborer",
+      "SalaryPerDay": "800",
+      "Address": "Indore, Madhya Pradesh",
+      "Description": "Assist with planting, weeding, and harvesting crop",
+      "OwnerName": "AgroTech Farms"
     }
   ]
 }
