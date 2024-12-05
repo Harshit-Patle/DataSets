@@ -12,7 +12,6 @@
         "LocationPin": "http://example.com/map_pin_green_acres",
         "DisputedLand": "No",
         "DurationOfRent": "12 months",
-        "Price": "₹150,000/month",
         "PictureOfLand": "link"
       },
       {
@@ -25,8 +24,7 @@
         "KhasraNo": "67890",
         "LocationPin": "http://example.com/map_pin_sunny_fields",
         "DisputedLand": "No",
-        "DurationOfRent": "6 months",
-        "Price": "₹110,000/month",
+        "DurationOfRent": "6 months"
         "PictureOfLand": "link"
       }
     ],
