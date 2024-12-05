@@ -34,6 +34,13 @@
       "Address": "Gwalior, Madhya Pradesh",
       "Description": "Monitor crop health, provide pest management advice.",
       "OwnerName": "Rural Agri Solutions"
+    },
+    {
+      "Title": "Farm Manager",
+      "SalaryPerDay": "1,500",
+      "Address": "Ujjain, Madhya Pradesh",
+      "Description": "Oversee farm operations, manage staff, and optimize yield.",
+      "OwnerName": "GreenHarvest Farms"
     }
   ]
 }
