@@ -24,7 +24,7 @@
         "KhasraNo": "67890",
         "LocationPin": "http://example.com/map_pin_sunny_fields",
         "DisputedLand": "No",
-        "DurationOfRent": "6 months"
+        "DurationOfRent": "6 months",
         "PictureOfLand": "link"
       }
     ],
