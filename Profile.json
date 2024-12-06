@@ -3,20 +3,20 @@
      "9876543210": {
         "Name": "John Doe",
         "Email": "john.doe@example.com",
-        "Number": "9876543210",
+        "mobile": "9876543210",
         "Age": 30,
         "Address": "123 Green Acres, Springfield",
         "Gender": "Male",
-       "Password":"Pass123"
+       "password":"Pass123"
       },
      "8765432109": {
         "Name": "Jane Smith",
         "Email": "jane.smith@example.com",
-        "Number": "8765432109",
+        "mobile": "8765432109",
         "Age": 28,
         "Address": "456 Sunny Fields, Shelbyville",
         "Gender": "Female",
-       "Password":"Abcd123"
+       "password":"Abcd123"
       }
   }
 }
