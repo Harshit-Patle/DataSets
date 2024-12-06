@@ -6,7 +6,8 @@
         "Number": "9876543210",
         "Age": 30,
         "Address": "123 Green Acres, Springfield",
-        "Gender": "Male"
+        "Gender": "Male",
+       "Password":"Pass123"
       },
      "8765432109": {
         "Name": "Jane Smith",
@@ -14,7 +15,8 @@
         "Number": "8765432109",
         "Age": 28,
         "Address": "456 Sunny Fields, Shelbyville",
-        "Gender": "Female"
+        "Gender": "Female",
+       "Password":"Abcd123"
       }
   }
 }
