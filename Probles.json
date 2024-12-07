@@ -1,14 +1,44 @@
 {
     "Problems": [
       {
-        "heading": "Sample Problem 1",
-        "image": "https://example.com/image1.jpg",
-        "description": "This is a description of sample problem 1."
+        "heading": "Community",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Community.jpg?raw=true",
+        "description": "Users can interact with each other and learn together"
       },
       {
-        "heading": "Sample Problem 2",
-        "image": "https://example.com/image2.jpg",
-        "description": "This is a description of sample problem 2."
+        "heading": "Jobs & Employment",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Jobs%20&%20Employment.jpg?raw=true",
+        "description": "Users can hire & find jobs based on their skills and demographics"
+      },
+      {
+        "heading": "Schemes & Subsidies",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Schemes%20&%20Subsidies.jpg?raw=true",
+        "description": "Users can easily access schemes & subsidies"
+      },
+      {
+        "heading": "Equipment Pooling",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Equipment%20Pooling.jpg?raw=true",
+        "description": "Users can pool their Equipment for the purpose of Selling & Leasing"
+      },
+      {
+        "heading": "Agricultural Insights",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Agricultural%20Insights.jpg?raw=true",
+        "description": "Users can access Real time weather & Mandi prices"
+      },
+      {
+        "heading": "Land Pooling",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Land%20Pooling.jpg?raw=true",
+        "description": "Users can pool their land to share & collaborate with other users"
+      },
+      {
+        "heading": "Marketplace",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Marketplace.jpg?raw=true",
+        "description": "Users can sell/ Rent & buy/ Borrow from another user or supplier"
+      },
+      {
+        "heading": "Investment",
+        "image": "https://github.com/Harshit-Patle/DataSets/blob/main/Images/Investment.jpg?raw=true",
+        "description": "Users can Invest in land stocks & Agricultural projects"
       }
     ]
   }
