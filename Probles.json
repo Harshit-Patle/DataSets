@@ -1,0 +1,14 @@
+{
+    "Problems": [
+      {
+        "heading": "Sample Problem 1",
+        "image": "https://example.com/image1.jpg",
+        "description": "This is a description of sample problem 1."
+      },
+      {
+        "heading": "Sample Problem 2",
+        "image": "https://example.com/image2.jpg",
+        "description": "This is a description of sample problem 2."
+      }
+    ]
+  }
