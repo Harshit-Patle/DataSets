@@ -55,6 +55,13 @@
       "Address": "123 Green Acres, Springfield",
       "Description": "Manage daily farm operations",
       "OwnerName": "GreenField Agriculture Solutions"
+    },
+    {
+      "Title": "Agricultural Laborer",
+      "SalaryPerDay": "800",
+      "Address": "Indore, Madhya Pradesh",
+      "Description": "Assist with planting, weeding, and harvesting crop",
+      "OwnerName": "AgroTech Farms"
     }
   ]
 }
