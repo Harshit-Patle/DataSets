@@ -62,6 +62,13 @@
       "Address": "Indore, Madhya Pradesh",
       "Description": "Assist with planting, weeding, and harvesting crop",
       "OwnerName": "AgroTech Farms"
+    },
+    {
+      "Title": "Harshit",
+      "SalaryPerDay": "2000",
+      "Address": "bhopal",
+      "Description": "nnn",
+      "OwnerName": "harshit"
     }
   ]
 }
