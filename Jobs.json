@@ -48,6 +48,13 @@
       "Address": "Jabalpur, Madhya Pradesh",
       "Description": "Install and maintain irrigation systems for crops.",
       "OwnerName": "AgriTech Solutions"
+    },
+    {
+      "Title": "Farm Manager",
+      "SalaryPerDay": "2000",
+      "Address": "123 Green Acres, Springfield",
+      "Description": "Manage daily farm operations",
+      "OwnerName": "GreenField Agriculture Solutions"
     }
   ]
 }
