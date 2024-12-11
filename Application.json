@@ -4,615 +4,615 @@
     "company": "Green Acres Farm",
     "applicationDate": "2024-01-15",
     "applicationStatus": "Pending",
-    "salary": "$15/hr"
+    "salary": "15/hr"
   },
   {
     "jobTitle": "Agricultural Technician",
     "company": "Sunrise Agriculture",
     "applicationDate": "2024-01-20",
     "applicationStatus": "Accepted",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Equipment Operator",
     "company": "Harvest Machinery",
     "applicationDate": "2024-02-05",
     "applicationStatus": "Rejected",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Irrigation Specialist",
     "company": "Green Fields Co.",
     "applicationDate": "2024-02-10",
     "applicationStatus": "Pending",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Plant Nursery Worker",
     "company": "Bloom Nursery",
     "applicationDate": "2024-02-15",
     "applicationStatus": "Accepted",
-    "salary": "$16/hr"
+    "salary": "16/hr"
   },
   {
     "jobTitle": "Crop Picker",
     "company": "Sunny Harvest",
     "applicationDate": "2024-02-20",
     "applicationStatus": "Pending",
-    "salary": "$14/hr"
+    "salary": "14/hr"
   },
   {
     "jobTitle": "Field Supervisor",
     "company": "AgriLife",
     "applicationDate": "2024-03-01",
     "applicationStatus": "Rejected",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Livestock Handler",
     "company": "Happy Cows Farm",
     "applicationDate": "2024-03-05",
     "applicationStatus": "Accepted",
-    "salary": "$17/hr"
+    "salary": "17/hr"
   },
   {
     "jobTitle": "Pesticide Applicator",
     "company": "EcoAgri Solutions",
     "applicationDate": "2024-03-10",
     "applicationStatus": "Pending",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Farm Manager Assistant",
     "company": "Green Pastures",
     "applicationDate": "2024-03-15",
     "applicationStatus": "Pending",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Agronomy Assistant",
     "company": "FieldTech",
     "applicationDate": "2024-03-20",
     "applicationStatus": "Accepted",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Dairy Farm Worker",
     "company": "Milky Way Farms",
     "applicationDate": "2024-04-01",
     "applicationStatus": "Rejected",
-    "salary": "$16/hr"
+    "salary": "16/hr"
   },
   {
     "jobTitle": "Soil Technician",
     "company": "TerraFarm",
     "applicationDate": "2024-04-05",
     "applicationStatus": "Pending",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Fruit Packing Worker",
     "company": "FreshHarvest",
     "applicationDate": "2024-04-10",
     "applicationStatus": "Accepted",
-    "salary": "$15/hr"
+    "salary": "15/hr"
   },
   {
     "jobTitle": "Vegetable Grower",
     "company": "VeggieVille",
     "applicationDate": "2024-04-15",
     "applicationStatus": "Pending",
-    "salary": "$17/hr"
+    "salary": "17/hr"
   },
   {
     "jobTitle": "Greenhouse Technician",
     "company": "PlantPro",
     "applicationDate": "2024-04-20",
     "applicationStatus": "Rejected",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Farm Maintenance Worker",
     "company": "AgriCare",
     "applicationDate": "2024-05-01",
     "applicationStatus": "Accepted",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Seed Planting Assistant",
     "company": "SeedStart",
     "applicationDate": "2024-05-05",
     "applicationStatus": "Pending",
-    "salary": "$14/hr"
+    "salary": "14/hr"
   },
   {
     "jobTitle": "Horticulture Assistant",
     "company": "GreenThumb",
     "applicationDate": "2024-05-10",
     "applicationStatus": "Rejected",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Agricultural Inspector",
     "company": "SafeFarm",
     "applicationDate": "2024-05-15",
     "applicationStatus": "Accepted",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Farm Sales Representative",
     "company": "AgriSales",
     "applicationDate": "2024-05-20",
     "applicationStatus": "Pending",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Compost Technician",
     "company": "EcoSoil",
     "applicationDate": "2024-06-01",
     "applicationStatus": "Rejected",
-    "salary": "$17/hr"
+    "salary": "17/hr"
   },
   {
     "jobTitle": "Agricultural Equipment Cleaner",
     "company": "CleanFarm",
     "applicationDate": "2024-06-05",
     "applicationStatus": "Accepted",
-    "salary": "$15/hr"
+    "salary": "15/hr"
   },
   {
     "jobTitle": "Irrigation Technician",
     "company": "WaterWise",
     "applicationDate": "2024-06-10",
     "applicationStatus": "Pending",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Farm Security Guard",
     "company": "SecureAgri",
     "applicationDate": "2024-06-15",
     "applicationStatus": "Rejected",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Agricultural Sales Associate",
     "company": "AgriMart",
     "applicationDate": "2024-06-20",
     "applicationStatus": "Accepted",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Nursery Assistant",
     "company": "PlantHouse",
     "applicationDate": "2024-07-01",
     "applicationStatus": "Pending",
-    "salary": "$16/hr"
+    "salary": "16/hr"
   },
   {
     "jobTitle": "Field Data Collector",
     "company": "DataAgri",
     "applicationDate": "2024-07-05",
     "applicationStatus": "Rejected",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Crop Sprayer",
     "company": "AgriSpray",
     "applicationDate": "2024-07-10",
     "applicationStatus": "Accepted",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Poultry Farm Worker",
     "company": "FeatherFields",
     "applicationDate": "2024-07-15",
     "applicationStatus": "Pending",
-    "salary": "$15/hr"
+    "salary": "15/hr"
   },
   {
     "jobTitle": "Agricultural Research Assistant",
     "company": "AgriResearch",
     "applicationDate": "2024-07-20",
     "applicationStatus": "Rejected",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Farm Logistics Coordinator",
     "company": "AgriLogistics",
     "applicationDate": "2024-08-01",
     "applicationStatus": "Accepted",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Bee Keeper",
     "company": "HoneyHarvest",
     "applicationDate": "2024-08-05",
     "applicationStatus": "Pending",
-    "salary": "$17/hr"
+    "salary": "17/hr"
   },
   {
     "jobTitle": "Aquaculture Technician",
     "company": "BlueWater Farms",
     "applicationDate": "2024-08-10",
     "applicationStatus": "Rejected",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Farm Marketing Assistant",
     "company": "AgriMarket",
     "applicationDate": "2024-08-15",
     "applicationStatus": "Accepted",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Organic Farm Worker",
     "company": "PureGrow",
     "applicationDate": "2024-08-20",
     "applicationStatus": "Pending",
-    "salary": "$16/hr"
+    "salary": "16/hr"
   },
   {
     "jobTitle": "Farm Accounting Clerk",
     "company": "AgriFinance",
     "applicationDate": "2024-09-01",
     "applicationStatus": "Rejected",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Crop Advisor",
     "company": "AgriAdvice",
     "applicationDate": "2024-09-05",
     "applicationStatus": "Accepted",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm IT Support",
     "company": "TechAgri",
     "applicationDate": "2024-09-10",
     "applicationStatus": "Pending",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Livestock Breeder",
     "company": "BreedWell Farms",
     "applicationDate": "2024-09-15",
     "applicationStatus": "Rejected",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Farm Safety Officer",
     "company": "SafeAgri",
     "applicationDate": "2024-09-20",
     "applicationStatus": "Accepted",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Harvest Coordinator",
     "company": "AgriHarvest",
     "applicationDate": "2024-10-01",
     "applicationStatus": "Pending",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Farm HR Assistant",
     "company": "AgriHR",
     "applicationDate": "2024-10-05",
     "applicationStatus": "Rejected",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Farm Supply Chain Manager",
     "company": "AgriSupply",
     "applicationDate": "2024-10-10",
     "applicationStatus": "Accepted",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Agricultural Extension Worker",
     "company": "AgriExtend",
     "applicationDate": "2024-10-15",
     "applicationStatus": "Pending",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Farm Environmental Officer",
     "company": "GreenFarm",
     "applicationDate": "2024-10-20",
     "applicationStatus": "Rejected",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Finance Manager",
     "company": "AgriFinance",
     "applicationDate": "2024-11-01",
     "applicationStatus": "Accepted",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Product Tester",
     "company": "AgriTest",
     "applicationDate": "2024-11-05",
     "applicationStatus": "Pending",
-    "salary": "$18/hr"
+    "salary": "18/hr"
   },
   {
     "jobTitle": "Green Energy Technician",
     "company": "EcoEnergy Farms",
     "applicationDate": "2024-11-10",
     "applicationStatus": "Rejected",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Farm Logistics Assistant",
     "company": "AgriLogistics",
     "applicationDate": "2024-11-15",
     "applicationStatus": "Accepted",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Farm Data Analyst",
     "company": "DataFarm",
     "applicationDate": "2024-11-20",
     "applicationStatus": "Pending",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "AgriTech Support Specialist",
     "company": "AgriTech",
     "applicationDate": "2024-12-01",
     "applicationStatus": "Rejected",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Farm Policy Advisor",
     "company": "AgriPolicy",
     "applicationDate": "2024-12-05",
     "applicationStatus": "Accepted",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Operations Manager",
     "company": "AgriOps",
     "applicationDate": "2024-12-10",
     "applicationStatus": "Pending",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Sustainability Coordinator",
     "company": "GreenFuture Farms",
     "applicationDate": "2024-12-15",
     "applicationStatus": "Rejected",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "AgriBusiness Developer",
     "company": "AgriBiz",
     "applicationDate": "2024-12-20",
     "applicationStatus": "Accepted",
-    "salary": "$26/hr"
+    "salary": "26/hr"
   },
   {
     "jobTitle": "Farm Quality Control Inspector",
     "company": "QualityAgri",
     "applicationDate": "2024-12-25",
     "applicationStatus": "Pending",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Farm Marketing Manager",
     "company": "AgriMarket",
     "applicationDate": "2024-12-30",
     "applicationStatus": "Rejected",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Community Liaison",
     "company": "AgriCommunity",
     "applicationDate": "2025-01-05",
     "applicationStatus": "Accepted",
-    "salary": "$19/hr"
+    "salary": "19/hr"
   },
   {
     "jobTitle": "Farm Research Coordinator",
     "company": "AgriResearch",
     "applicationDate": "2025-01-10",
     "applicationStatus": "Pending",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Farm Digital Marketing Specialist",
     "company": "DigitalAgri",
     "applicationDate": "2025-01-15",
     "applicationStatus": "Rejected",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Farm HR Manager",
     "company": "AgriHR",
     "applicationDate": "2025-01-20",
     "applicationStatus": "Accepted",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Technology Integrator",
     "company": "TechFarm",
     "applicationDate": "2025-02-01",
     "applicationStatus": "Pending",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Supply Manager",
     "company": "AgriSupply",
     "applicationDate": "2025-02-05",
     "applicationStatus": "Rejected",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Farm Operations Analyst",
     "company": "AgriOps",
     "applicationDate": "2025-02-10",
     "applicationStatus": "Accepted",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Innovation Specialist",
     "company": "InnovateAgri",
     "applicationDate": "2025-02-15",
     "applicationStatus": "Pending",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Outreach Coordinator",
     "company": "AgriOutreach",
     "applicationDate": "2025-02-20",
     "applicationStatus": "Rejected",
-    "salary": "$20/hr"
+    "salary": "20/hr"
   },
   {
     "jobTitle": "Farm Product Manager",
     "company": "AgriProducts",
     "applicationDate": "2025-03-01",
     "applicationStatus": "Accepted",
-    "salary": "$26/hr"
+    "salary": "26/hr"
   },
   {
     "jobTitle": "Farm Logistics Manager",
     "company": "AgriLogistics",
     "applicationDate": "2025-03-05",
     "applicationStatus": "Pending",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Sales Manager",
     "company": "AgriSales",
     "applicationDate": "2025-03-10",
     "applicationStatus": "Rejected",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Data Scientist",
     "company": "DataFarm",
     "applicationDate": "2025-03-15",
     "applicationStatus": "Accepted",
-    "salary": "$28/hr"
+    "salary": "28/hr"
   },
   {
     "jobTitle": "Farm Renewable Energy Specialist",
     "company": "EcoEnergy Farms",
     "applicationDate": "2025-03-20",
     "applicationStatus": "Pending",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Policy Analyst",
     "company": "AgriPolicy",
     "applicationDate": "2025-04-01",
     "applicationStatus": "Rejected",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Farm Sustainability Manager",
     "company": "GreenFuture Farms",
     "applicationDate": "2025-04-05",
     "applicationStatus": "Accepted",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Business Analyst",
     "company": "AgriBiz",
     "applicationDate": "2025-04-10",
     "applicationStatus": "Pending",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Technology Manager",
     "company": "TechFarm",
     "applicationDate": "2025-04-15",
     "applicationStatus": "Rejected",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Community Manager",
     "company": "AgriCommunity",
     "applicationDate": "2025-04-20",
     "applicationStatus": "Accepted",
-    "salary": "$21/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Farm Innovation Manager",
     "company": "InnovateAgri",
     "applicationDate": "2025-05-01",
     "applicationStatus": "Pending",
-    "salary": "$26/hr"
+    "salary": "21/hr"
   },
   {
     "jobTitle": "Farm Research Manager",
     "company": "AgriResearch",
     "applicationDate": "2025-05-05",
     "applicationStatus": "Rejected",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Digital Strategist",
     "company": "DigitalAgri",
     "applicationDate": "2025-05-10",
     "applicationStatus": "Accepted",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Operations Director",
     "company": "AgriOps",
     "applicationDate": "2025-05-15",
     "applicationStatus": "Pending",
-    "salary": "$28/hr"
+    "salary": "28/hr"
   },
   {
     "jobTitle": "Farm Supply Chain Analyst",
     "company": "AgriSupply",
     "applicationDate": "2025-05-20",
     "applicationStatus": "Rejected",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Logistics Coordinator",
     "company": "AgriLogistics",
     "applicationDate": "2025-06-01",
     "applicationStatus": "Accepted",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Sustainability Analyst",
     "company": "GreenFuture Farms",
     "applicationDate": "2025-06-05",
     "applicationStatus": "Pending",
-    "salary": "$22/hr"
+    "salary": "22/hr"
   },
   {
     "jobTitle": "Farm Product Specialist",
     "company": "AgriProducts",
     "applicationDate": "2025-06-10",
     "applicationStatus": "Rejected",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   },
   {
     "jobTitle": "Farm Outreach Manager",
     "company": "AgriOutreach",
     "applicationDate": "2025-06-15",
     "applicationStatus": "Accepted",
-    "salary": "$23/hr"
+    "salary": "23/hr"
   },
   {
     "jobTitle": "Farm Renewable Energy Manager",
     "company": "EcoEnergy Farms",
     "applicationDate": "2025-06-20",
     "applicationStatus": "Pending",
-    "salary": "$24/hr"
+    "salary": "24/hr"
   },
   {
     "jobTitle": "Farm Policy Manager",
     "company": "AgriPolicy",
     "applicationDate": "2025-07-01",
     "applicationStatus": "Rejected",
-    "salary": "$25/hr"
+    "salary": "25/hr"
   }
 ]
