@@ -1,0 +1,29 @@
+{
+  "lauber": [
+    {
+      "name": "John Doe",
+      "district": "District A",
+      "profession": "Farmer"
+    },
+    {
+      "name": "Jane Smith",
+      "district": "District B",
+      "profession": "farm Manager"
+    },
+    {
+      "name": "Alice Johnson",
+      "district": "District C",
+      "profession": "labour"
+    },
+    {
+      "name": "Bob Brown",
+      "district": "District D",
+      "profession": "Doctor"
+    },
+    {
+      "name": "Charlie Davis",
+      "district": "District E",
+      "profession": "Artist"
+    }
+  ]
+}
