@@ -3,24 +3,28 @@
     "Shop": {
       "FreshFruitAndVegetable": [
         {
+          "District": "Delhi",
           "Name": "Apple",
           "Price": "₹150/kg",
           "Description": "Fresh and juicy apples",
           "Image": "https://th.bing.com/th/id/OIP.XprgHSCfPgHBpfQBBfAWqwHaFb?"
         },
         {
+          "District": "Delhi",
           "Name": "Carrot",
           "Price": "₹50/kg",
           "Description": "Organic carrots",
           "Image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png"
         },
         {
+          "District": "Delhi",
           "Name": "Banana",
           "Price": "₹40/dozen",
           "Description": "Ripe bananas",
           "Image": "https://th.bing.com/th/id/R.39e38a13253cb077924e1714b0f292e9?rik=sGa9Y9j2Uf%2bLbw&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-bananafruitsyellowfruit-981524754330lspp8.png&ehk=urmfG8byqiIH%2bJop2vE9Tm9TJz06acnuPEtwo3kHiN4%3d&risl=&pid=ImgRaw&r=0"
         },
         {
+          "District": "Delhi",
           "Name": "Tomato",
           "Price": "₹30/kg",
           "Description": "Fresh tomatoes",
@@ -29,24 +33,28 @@
       ],
       "Seeds": [
         {
+          "District": "Mumbai",
           "Name": "Olive Oil",
           "Price": "₹500/liter",
           "Description": "Extra virgin olive oil",
           "Image": "https://www.pngarts.com/files/3/Olive-Oil-PNG-Transparent-Image.png"
         },
         {
+          "District": "Mumbai",
           "Name": "Sunflower Oil",
           "Price": "₹200/liter",
           "Description": "Pure sunflower oil",
           "Image": "https://purepng.com/public/uploads/large/purepng.com-sunflower-oilsunflower-oilcooking-oilfrying-oilnon-volatile-oil-1411529833620ikgax.png"
         },
         {
+          "District": "Mumbai",
           "Name": "Coconut Oil",
           "Price": "₹300/liter",
           "Description": "Organic coconut oil",
           "Image": "https://th.bing.com/th/id/OIP.ShCXEuFDcLC3MXYd4-8wNwHaHa?rs=1&pid=ImgDetMain"
         },
         {
+          "District": "Mumbai",
           "Name": "Mustard Oil",
           "Price": "₹150/liter",
           "Description": "Cold-pressed mustard oil",
@@ -55,24 +63,28 @@
       ],
       "DryFruitsAndSpices": [
         {
+          "District": "Bengaluru",
           "Name": "Almonds",
           "Price": "₹800/kg",
           "Description": "Premium quality almonds",
           "Image": "https://www.pngplay.com/wp-content/uploads/2/Almond-PNG-Images-HD.png"
         },
         {
+          "District": "Bengaluru",
           "Name": "Cinnamon",
           "Price": "₹300/kg",
           "Description": "Organic cinnamon sticks",
           "Image": "https://png.pngtree.com/png-clipart/20231015/original/pngtree-png-illustration-of-cinnamon-sticks-png-image_13300949.png"
         },
         {
+          "District": "Bengaluru",
           "Name": "Cashews",
           "Price": "₹900/kg",
           "Description": "Whole cashew nuts",
           "Image": "https://th.bing.com/th/id/OIP.R0bs46iONPKxM0D6JpAdKQHaGQ?rs=1&pid=ImgDetMain"
         },
         {
+          "District": "Bengaluru",
           "Name": "Black Pepper",
           "Price": "₹600/kg",
           "Description": "Whole black peppercorns",
@@ -81,18 +93,21 @@
       ],
       "SoilFertilizersAndPesticides": [
         {
+          "District": "Kolkata",
           "Name": "Organic Fertilizer",
           "Price": "₹250/bag",
           "Description": "Natural organic fertilizer",
           "Image": "https://th.bing.com/th/id/OIP.FnSsExRannwa56xBjcO5GgHaHa?rs=1&pid=ImgDetMain"
         },
         {
+          "District": "Kolkata",
           "Name": "Compost",
           "Price": "₹150/bag",
           "Description": "Rich compost for plants",
           "Image": "https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000077466/0c2c7dec-3131-43e9-875e-46599708ae49.png"
         },
         {
+          "District": "Kolkata",
           "Name": "Vermicompost",
           "Price": "₹200/bag",
           "Description": "Nutrient-rich vermicompost",
@@ -101,18 +116,21 @@
       ],
       "FarmingTools": [
         {
+          "District": "Chennai",
           "Name": "Pruning Shears",
           "Price": "₹300",
           "Description": "High-quality pruning shears",
           "Image": "https://static.vecteezy.com/system/resources/previews/023/324/621/original/watercolor-pruning-shears-farm-clip-art-png.png"
         },
         {
+          "District": "Chennai",
           "Name": "Garden Hoe",
           "Price": "₹150",
           "Description": "Durable garden hoe",
           "Image": "https://th.bing.com/th/id/OIP.3lMTfDMYmUPg_ADCIYmxwQAAAA?rs=1&pid=ImgDetMain"
         },
         {
+          "District": "Chennai",
           "Name": "Rake",
           "Price": "₹200",
           "Description": "Sturdy garden rake",
@@ -121,18 +139,21 @@
       ],
       "Machineries": [
         {
+          "District": "Hyderabad",
           "Name": "Harvester",
           "Price": "₹1,000,000",
           "Description": "Efficient crop harvester",
           "Image": "https://superstandard.in/img/super-standard-Mini-Combine-Harvester-735.jpg"
         },
         {
+          "District": "Hyderabad",
           "Name": "Seeder",
           "Price": "₹200,000",
           "Description": "Automatic seeder",
           "Image": "https://th.bing.com/th/id/OIP.8EJV5BL8LX7IlyTl9K6B0QHaHa?rs=1&pid=ImgDetMaing"
         },
         {
+          "District": "Hyderabad",
           "Name": "Plough",
           "Price": "₹50,000",
           "Description": "Heavy-duty plough",
@@ -143,6 +164,7 @@
     "Borrow": {
       "FarmingTools": [
         {
+          "District": "Pune",
           "ItemName": "Pruning Shears",
           "Description": "High-quality pruning shears",
           "Quantity": 5,
@@ -152,6 +174,7 @@
           "Duration": "7 days"
         },
         {
+          "District": "Pune",
           "ItemName": "Garden Hoe",
           "Description": "Durable garden hoe",
           "Quantity": 10,
@@ -161,6 +184,7 @@
           "Duration": "5 days"
         },
         {
+          "District": "Pune",
           "ItemName": "Rake",
           "Description": "Sturdy garden rake",
           "Quantity": 8,
@@ -170,6 +194,7 @@
           "Duration": "6 days"
         },
         {
+          "District": "Pune",
           "ItemName": "Trowel",
           "Description": "Handy garden trowel",
           "Quantity": 15,
@@ -181,6 +206,7 @@
       ],
       "FarmEquipment": [
         {
+          "District": "Nagpur",
           "ItemName": "Tractor",
           "Description": "Powerful farm tractor",
           "Quantity": 2,
@@ -190,6 +216,7 @@
           "Duration": "30 days"
         },
         {
+          "District": "Nagpur",
           "ItemName": "Plough",
           "Description": "Heavy-duty plough",
           "Quantity": 3,
@@ -199,6 +226,7 @@
           "Duration": "20 days"
         },
         {
+          "District": "Nagpur",
           "ItemName": "Harvester",
           "Description": "Efficient crop harvester",
           "Quantity": 1,
@@ -208,6 +236,7 @@
           "Duration": "60 days"
         },
         {
+          "District": "Nagpur",
           "ItemName": "Seeder",
           "Description": "Automatic seeder",
           "Quantity": 4,
@@ -219,6 +248,7 @@
       ],
       "Machineries": [
         {
+          "District": "Surat",
           "ItemName": "Harvester",
           "Description": "Efficient crop harvester",
           "Quantity": 1,
@@ -228,6 +258,7 @@
           "Duration": "60 days"
         },
         {
+          "District": "Surat",
           "ItemName": "Seeder",
           "Description": "Automatic seeder",
           "Quantity": 4,
@@ -237,6 +268,7 @@
           "Duration": "25 days"
         },
         {
+          "District": "Surat",
           "ItemName": "Tractor",
           "Description": "Powerful farm tractor",
           "Quantity": 2,
@@ -246,33 +278,14 @@
           "Duration": "30 days"
         },
         {
+          "District": "Surat",
           "ItemName": "Plough",
           "Description": "Heavy-duty plough",
           "Quantity": 3,
-          "ProductImage": "https://th.bing.com/th/id/R.0ea949c48177690f8493ad655304f524?rik=hkIqxqzdz28fCQ&riu=http%3a%2f%2fwww.cn-dfma.com%2fd%2fpic%2fimplements-for-four-wheel-tractor%2f3ql-series-ridger-plough1.jpg&ehk=y0bz%2bHktknmoU9Sc9AZSt6lL9HVV7mGOhwdY4ma3NTo%3d&risl=&pid=ImgRaw&r=0",
+          "ProductImage": "https://static.e-agriculture.com/sites/default/files/field/image/Tractor%20Plow%20Machine.jpg",
           "ProductCategory": "Machineries",
           "Price": "₹1,000/day",
           "Duration": "20 days"
-        }
-      ],
-      "HeavyEquipments": [
-        {
-          "ItemName": "Compost Bin",
-          "Description": "Eco-friendly compost bin",
-          "Quantity": 10,
-          "ProductImage": "https://i.pinimg.com/originals/ea/a9/3c/eaa93c3d33dcdeecc29d5a14a85cb438.jpg",
-          "ProductCategory": "Others",
-          "Price": "₹100/day",
-          "Duration": "5 days"
-        },
-        {
-          "ItemName": "Greenhouse",
-          "Description": "Portable greenhouse",
-          "Quantity": 2,
-          "ProductImage": "https://www.gardenpatch.co.uk/wp-content/uploads/2021/10/Raised-beds-greenhouse-gardening.jpg",
-          "ProductCategory": "Others",
-          "Price": "₹1,000/day",
-          "Duration": "30 days"
         }
       ]
     }
