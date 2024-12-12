@@ -1,5 +1,5 @@
 {
-  "Community": [
+  "Community": {
     {
       "comment": "I have started cultivating wheat.",
       "name": "Ravi Kumar"
@@ -156,5 +156,5 @@
       "comment": "Growing aloe vera for medicinal use.",
       "name": "Pallavi Das"
     }
-  ]
+}
 }
