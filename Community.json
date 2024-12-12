@@ -1,160 +1,160 @@
 {
-    "Community": [
-        {
-            "comment": "I have started cultivating wheat.",
-            "name": "Ravi Kumar"
-        },
-        {
-            "comment": "Planting rice in my field.",
-            "name": "Suman Sharma"
-        },
-        {
-            "comment": "Growing organic vegetables.",
-            "name": "Amit Singh"
-        },
-        {
-            "comment": "Harvesting sugarcane this season.",
-            "name": "Priya Desai"
-        },
-        {
-            "comment": "Experimenting with new irrigation techniques.",
-            "name": "Rajesh Patel"
-        },
-        {
-            "comment": "Using compost for better crop yield.",
-            "name": "Anjali Verma"
-        },
-        {
-            "comment": "Growing cotton in my farm.",
-            "name": "Vikram Chauhan"
-        },
-        {
-            "comment": "Switching to organic farming methods.",
-            "name": "Nisha Gupta"
-        },
-        {
-            "comment": "Starting a new dairy farm.",
-            "name": "Suresh Yadav"
-        },
-        {
-            "comment": "Implementing crop rotation for soil health.",
-            "name": "Rekha Mehta"
-        },
-        {
-            "comment": "Planting pulses this year.",
-            "name": "Arun Reddy"
-        },
-        {
-            "comment": "Growing medicinal herbs.",
-            "name": "Pooja Nair"
-        },
-        {
-            "comment": "Training on modern farming techniques.",
-            "name": "Karan Joshi"
-        },
-        {
-            "comment": "Using drip irrigation to save water.",
-            "name": "Divya Rao"
-        },
-        {
-            "comment": "Growing spices like turmeric and ginger.",
-            "name": "Vikas Singh"
-        },
-        {
-            "comment": "Starting an orchard for mangoes.",
-            "name": "Meera Kulkarni"
-        },
-        {
-            "comment": "Harvesting wheat this month.",
-            "name": "Ajay Thakur"
-        },
-        {
-            "comment": "Trying out hydroponic farming.",
-            "name": "Ritu Sharma"
-        },
-        {
-            "comment": "Growing strawberries in my farm.",
-            "name": "Gaurav Pandey"
-        },
-        {
-            "comment": "Switching to organic fertilizers.",
-            "name": "Shweta Deshmukh"
-        },
-        {
-            "comment": "Cultivating millets for better nutrition.",
-            "name": "Vinay Kumar"
-        },
-        {
-            "comment": "Using green manure for soil enrichment.",
-            "name": "Sneha Bhat"
-        },
-        {
-            "comment": "Growing tea in the hilly regions.",
-            "name": "Rakesh Singh"
-        },
-        {
-            "comment": "Starting a poultry farm.",
-            "name": "Anita Jain"
-        },
-        {
-            "comment": "Using biopesticides for pest control.",
-            "name": "Pankaj Agarwal"
-        },
-        {
-            "comment": "Growing coffee beans in my farm.",
-            "name": "Deepa Menon"
-        },
-        {
-            "comment": "Setting up a greenhouse for vegetables.",
-            "name": "Nitin Saxena"
-        },
-        {
-            "comment": "Harvesting bananas this season.",
-            "name": "Kavita Sinha"
-        },
-        {
-            "comment": "Experimenting with vertical farming.",
-            "name": "Rohit Bhatt"
-        },
-        {
-            "comment": "Growing cashew nuts in my farm.",
-            "name": "Neha Mishra"
-        },
-        {
-            "comment": "Using solar energy for irrigation.",
-            "name": "Vivek Tiwari"
-        },
-        {
-            "comment": "Cultivating soybean for the first time.",
-            "name": "Preeti Singh"
-        },
-        {
-            "comment": "Trying out aquaponics farming.",
-            "name": "Sanjay Rawat"
-        },
-        {
-            "comment": "Growing grapes for wine production.",
-            "name": "Smita Kaur"
-        },
-        {
-            "comment": "Using vermicompost for better soil health.",
-            "name": "Ashok Malhotra"
-        },
-        {
-            "comment": "Growing sunflowers for oil extraction.",
-            "name": "Mala Gupta"
-        },
-        {
-            "comment": "Starting an apiary for honey production.",
-            "name": "Rohini Saxena"
-        },
-        {
-            "comment": "Using rainwater harvesting for irrigation.",
-            "name": "Nilesh Kumar"
-        },
-        {
-            "comment": "Growing aloe vera for medicinal use.",
-            "name": "Pallavi Das"
-        }
-    ]
+  "Community": [
+    {
+      "comment": "I have started cultivating wheat.",
+      "name": "Ravi Kumar"
+    },
+    {
+      "comment": "Planting rice in my field.",
+      "name": "Suman Sharma"
+    },
+    {
+      "comment": "Growing organic vegetables.",
+      "name": "Amit Singh"
+    },
+    {
+      "comment": "Harvesting sugarcane this season.",
+      "name": "Priya Desai"
+    },
+    {
+      "comment": "Experimenting with new irrigation techniques.",
+      "name": "Rajesh Patel"
+    },
+    {
+      "comment": "Using compost for better crop yield.",
+      "name": "Anjali Verma"
+    },
+    {
+      "comment": "Growing cotton in my farm.",
+      "name": "Vikram Chauhan"
+    },
+    {
+      "comment": "Switching to organic farming methods.",
+      "name": "Nisha Gupta"
+    },
+    {
+      "comment": "Starting a new dairy farm.",
+      "name": "Suresh Yadav"
+    },
+    {
+      "comment": "Implementing crop rotation for soil health.",
+      "name": "Rekha Mehta"
+    },
+    {
+      "comment": "Planting pulses this year.",
+      "name": "Arun Reddy"
+    },
+    {
+      "comment": "Growing medicinal herbs.",
+      "name": "Pooja Nair"
+    },
+    {
+      "comment": "Training on modern farming techniques.",
+      "name": "Karan Joshi"
+    },
+    {
+      "comment": "Using drip irrigation to save water.",
+      "name": "Divya Rao"
+    },
+    {
+      "comment": "Growing spices like turmeric and ginger.",
+      "name": "Vikas Singh"
+    },
+    {
+      "comment": "Starting an orchard for mangoes.",
+      "name": "Meera Kulkarni"
+    },
+    {
+      "comment": "Harvesting wheat this month.",
+      "name": "Ajay Thakur"
+    },
+    {
+      "comment": "Trying out hydroponic farming.",
+      "name": "Ritu Sharma"
+    },
+    {
+      "comment": "Growing strawberries in my farm.",
+      "name": "Gaurav Pandey"
+    },
+    {
+      "comment": "Switching to organic fertilizers.",
+      "name": "Shweta Deshmukh"
+    },
+    {
+      "comment": "Cultivating millets for better nutrition.",
+      "name": "Vinay Kumar"
+    },
+    {
+      "comment": "Using green manure for soil enrichment.",
+      "name": "Sneha Bhat"
+    },
+    {
+      "comment": "Growing tea in the hilly regions.",
+      "name": "Rakesh Singh"
+    },
+    {
+      "comment": "Starting a poultry farm.",
+      "name": "Anita Jain"
+    },
+    {
+      "comment": "Using biopesticides for pest control.",
+      "name": "Pankaj Agarwal"
+    },
+    {
+      "comment": "Growing coffee beans in my farm.",
+      "name": "Deepa Menon"
+    },
+    {
+      "comment": "Setting up a greenhouse for vegetables.",
+      "name": "Nitin Saxena"
+    },
+    {
+      "comment": "Harvesting bananas this season.",
+      "name": "Kavita Sinha"
+    },
+    {
+      "comment": "Experimenting with vertical farming.",
+      "name": "Rohit Bhatt"
+    },
+    {
+      "comment": "Growing cashew nuts in my farm.",
+      "name": "Neha Mishra"
+    },
+    {
+      "comment": "Using solar energy for irrigation.",
+      "name": "Vivek Tiwari"
+    },
+    {
+      "comment": "Cultivating soybean for the first time.",
+      "name": "Preeti Singh"
+    },
+    {
+      "comment": "Trying out aquaponics farming.",
+      "name": "Sanjay Rawat"
+    },
+    {
+      "comment": "Growing grapes for wine production.",
+      "name": "Smita Kaur"
+    },
+    {
+      "comment": "Using vermicompost for better soil health.",
+      "name": "Ashok Malhotra"
+    },
+    {
+      "comment": "Growing sunflowers for oil extraction.",
+      "name": "Mala Gupta"
+    },
+    {
+      "comment": "Starting an apiary for honey production.",
+      "name": "Rohini Saxena"
+    },
+    {
+      "comment": "Using rainwater harvesting for irrigation.",
+      "name": "Nilesh Kumar"
+    },
+    {
+      "comment": "Growing aloe vera for medicinal use.",
+      "name": "Pallavi Das"
+    }
+  ]
 }
