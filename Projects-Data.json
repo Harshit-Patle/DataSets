@@ -3,231 +3,87 @@
     {
       "projectId": 1,
       "projectOverview": {
-        "name": "Customer Loyalty Program",
-        "startDate": "2025-02-15",
-        "endDate": "2025-05-30",
+        "name": "Project Alpha",
+        "startDate": "2024-01-01",
+        "endDate": "2024-12-31",
         "status": "In Progress",
-        "progress": 35
+        "progress": 45
       },
       "tasks": [
         {
           "id": 101,
-          "name": "Program Structure Design",
-          "description": "Define reward tiers and point system.",
-          "deadline": "2025-03-01",
-          "status": "Completed"
+          "name": "Task 1",
+          "description": "Task description here",
+          "status": "In Progress",
+          "deadline": "2024-02-28"
         },
         {
           "id": 102,
-          "name": "Mobile App Integration",
-          "description": "Integrate loyalty features into existing app.",
-          "deadline": "2025-04-15",
-          "status": "In Progress"
-        },
-        {
-          "id": 103,
-          "name": "Partner Network Setup",
-          "description": "Establish partnerships for reward redemption.",
-          "deadline": "2025-05-15",
-          "status": "Pending"
+          "name": "Task 2",
+          "description": "Another task description",
+          "status": "Pending",
+          "deadline": "2024-05-15"
         }
       ],
-      "progress": {
-        "totalProgress": 35,
-        "tasks": [
-          { "taskId": 101, "progress": 100 },
-          { "taskId": 102, "progress": 45 },
-          { "taskId": 103, "progress": 0 }
-        ]
-      },
       "budget": {
         "totalBudget": 50000,
-        "expenses": 25000,
-        "remainingBudget": 25000
+        "expenses": 22000,
+        "remainingBudget": 28000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 101,
+            "progress": 50
+          },
+          {
+            "taskId": 102,
+            "progress": 0
+          }
+        ]
       }
     },
     {
       "projectId": 2,
       "projectOverview": {
-        "name": "AI Chatbot Implementation",
-        "startDate": "2025-03-01",
-        "endDate": "2025-06-15",
-        "status": "Not Started",
-        "progress": 0
+        "name": "Project Beta",
+        "startDate": "2023-05-15",
+        "endDate": "2024-05-15",
+        "status": "Completed",
+        "progress": 100
       },
       "tasks": [
         {
           "id": 201,
-          "name": "Requirements Analysis",
-          "description": "Define chatbot capabilities and use cases.",
-          "deadline": "2025-03-15",
-          "status": "Pending"
+          "name": "Task A",
+          "description": "Task A description",
+          "status": "Completed",
+          "deadline": "2024-01-31"
         },
         {
           "id": 202,
-          "name": "NLP Model Training",
-          "description": "Train and fine-tune language model.",
-          "deadline": "2025-04-30",
-          "status": "Pending"
-        },
-        {
-          "id": 203,
-          "name": "Integration Testing",
-          "description": "Test chatbot in various scenarios.",
-          "deadline": "2025-05-30",
-          "status": "Pending"
+          "name": "Task B",
+          "description": "Task B description",
+          "status": "Completed",
+          "deadline": "2024-03-01"
         }
       ],
-      "progress": {
-        "totalProgress": 0,
-        "tasks": [
-          { "taskId": 201, "progress": 0 },
-          { "taskId": 202, "progress": 0 },
-          { "taskId": 203, "progress": 0 }
-        ]
-      },
       "budget": {
-        "totalBudget": 120000,
-        "expenses": 0,
-        "remainingBudget": 120000
-      }
-    },
-    {
-      "projectId": 3,
-      "projectOverview": {
-        "name": "Supply Chain Optimization",
-        "startDate": "2025-01-10",
-        "endDate": "2025-04-30",
-        "status": "In Progress",
-        "progress": 60
+        "totalBudget": 75000,
+        "expenses": 75000,
+        "remainingBudget": 0
       },
-      "tasks": [
-        {
-          "id": 301,
-          "name": "Process Analysis",
-          "description": "Map current supply chain processes.",
-          "deadline": "2025-01-25",
-          "status": "Completed"
-        },
-        {
-          "id": 302,
-          "name": "Vendor Integration",
-          "description": "Implement new vendor management system.",
-          "deadline": "2025-03-15",
-          "status": "Completed"
-        },
-        {
-          "id": 303,
-          "name": "Automation Implementation",
-          "description": "Deploy automated workflow systems.",
-          "deadline": "2025-04-15",
-          "status": "In Progress"
-        }
-      ],
       "progress": {
-        "totalProgress": 60,
         "tasks": [
-          { "taskId": 301, "progress": 100 },
-          { "taskId": 302, "progress": 100 },
-          { "taskId": 303, "progress": 35 }
+          {
+            "taskId": 201,
+            "progress": 100
+          },
+          {
+            "taskId": 202,
+            "progress": 100
+          }
         ]
-      },
-      "budget": {
-        "totalBudget": 200000,
-        "expenses": 100000,
-        "remainingBudget": 100000
-      }
-    },
-    {
-      "projectId": 4,
-      "projectOverview": {
-        "name": "Green Energy Initiative",
-        "startDate": "2025-03-15",
-        "endDate": "2025-09-30",
-        "status": "Not Started",
-        "progress": 0
-      },
-      "tasks": [
-        {
-          "id": 401,
-          "name": "Energy Audit",
-          "description": "Conduct comprehensive energy usage analysis.",
-          "deadline": "2025-04-15",
-          "status": "Pending"
-        },
-        {
-          "id": 402,
-          "name": "Solar Panel Installation",
-          "description": "Install and configure solar energy system.",
-          "deadline": "2025-07-30",
-          "status": "Pending"
-        },
-        {
-          "id": 403,
-          "name": "Smart Grid Implementation",
-          "description": "Implement smart energy monitoring system.",
-          "deadline": "2025-09-15",
-          "status": "Pending"
-        }
-      ],
-      "progress": {
-        "totalProgress": 0,
-        "tasks": [
-          { "taskId": 401, "progress": 0 },
-          { "taskId": 402, "progress": 0 },
-          { "taskId": 403, "progress": 0 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 500000,
-        "expenses": 0,
-        "remainingBudget": 500000
-      }
-    },
-    {
-      "projectId": 5,
-      "projectOverview": {
-        "name": "HR Digital Transformation",
-        "startDate": "2025-02-01",
-        "endDate": "2025-05-15",
-        "status": "In Progress",
-        "progress": 40
-      },
-      "tasks": [
-        {
-          "id": 501,
-          "name": "Digital Tools Assessment",
-          "description": "Evaluate current HR tools and needs.",
-          "deadline": "2025-02-15",
-          "status": "Completed"
-        },
-        {
-          "id": 502,
-          "name": "HRIS Implementation",
-          "description": "Deploy new HR Information System.",
-          "deadline": "2025-04-01",
-          "status": "In Progress"
-        },
-        {
-          "id": 503,
-          "name": "Employee Self-Service Portal",
-          "description": "Develop employee portal for HR services.",
-          "deadline": "2025-05-01",
-          "status": "Pending"
-        }
-      ],
-      "progress": {
-        "totalProgress": 40,
-        "tasks": [
-          { "taskId": 501, "progress": 100 },
-          { "taskId": 502, "progress": 50 },
-          { "taskId": 503, "progress": 0 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 150000,
-        "expenses": 60000,
-        "remainingBudget": 90000
       }
     }
   ]
