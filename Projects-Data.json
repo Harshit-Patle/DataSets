@@ -171,6 +171,492 @@
           }
         ]
       }
-    }
-  ]
-}
+    },
+    {
+      "projectId": 5,
+      "projectOverview": {
+        "name": "E-commerce Platform",
+        "startDate": "2024-03-01",
+        "endDate": "2025-03-01",
+        "status": "In Progress",
+        "progress": 55
+      },
+      "tasks": [
+        {
+          "id": 501,
+          "name": "Market Research",
+          "description": "Conduct market research for the e-commerce platform",
+          "status": "Completed",
+          "deadline": "2024-04-01"
+        },
+        {
+          "id": 502,
+          "name": "Backend Development",
+          "description": "Develop backend using Django",
+          "status": "In Progress",
+          "deadline": "2024-10-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 100000,
+        "expenses": 45000,
+        "remainingBudget": 55000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 501,
+            "progress": 100
+          },
+          {
+            "taskId": 502,
+            "progress": 40
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 6,
+      "projectOverview": {
+        "name": "AI Chatbot Integration",
+        "startDate": "2023-11-01",
+        "endDate": "2024-11-01",
+        "status": "In Progress",
+        "progress": 70
+      },
+      "tasks": [
+        {
+          "id": 601,
+          "name": "NLP Model Training",
+          "description": "Train NLP model using TensorFlow",
+          "status": "Completed",
+          "deadline": "2024-05-01"
+        },
+        {
+          "id": 602,
+          "name": "Chatbot Interface",
+          "description": "Develop chatbot interface with React",
+          "status": "In Progress",
+          "deadline": "2024-08-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 50000,
+        "expenses": 35000,
+        "remainingBudget": 15000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 601,
+            "progress": 100
+          },
+          {
+            "taskId": 602,
+            "progress": 60
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 7,
+      "projectOverview": {
+        "name": "ERP System Implementation",
+        "startDate": "2024-01-15",
+        "endDate": "2024-12-15",
+        "status": "In Progress",
+        "progress": 50
+      },
+      "tasks": [
+        {
+          "id": 701,
+          "name": "Requirement Analysis",
+          "description": "Analyze requirements for the ERP system",
+          "status": "Completed",
+          "deadline": "2024-03-01"
+        },
+        {
+          "id": 702,
+          "name": "System Customization",
+          "description": "Customize ERP system modules",
+          "status": "In Progress",
+          "deadline": "2024-09-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 120000,
+        "expenses": 60000,
+        "remainingBudget": 60000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 701,
+            "progress": 100
+          },
+          {
+            "taskId": 702,
+            "progress": 40
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 8,
+      "projectOverview": {
+        "name": "Cybersecurity Enhancement",
+        "startDate": "2023-04-01",
+        "endDate": "2024-04-01",
+        "status": "Completed",
+        "progress": 100
+      },
+      "tasks": [
+        {
+          "id": 801,
+          "name": "Vulnerability Assessment",
+          "description": "Conduct vulnerability assessment",
+          "status": "Completed",
+          "deadline": "2023-08-01"
+        },
+        {
+          "id": 802,
+          "name": "Implement Security Measures",
+          "description": "Implement necessary security measures",
+          "status": "Completed",
+          "deadline": "2024-02-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 70000,
+        "expenses": 70000,
+        "remainingBudget": 0
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 801,
+            "progress": 100
+          },
+          {
+            "taskId": 802,
+            "progress": 100
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 9,
+      "projectOverview": {
+        "name": "Big Data Analytics",
+        "startDate": "2024-02-01",
+        "endDate": "2025-02-01",
+        "status": "In Progress",
+        "progress": 40
+      },
+      "tasks": [
+        {
+          "id": 901,
+          "name": "Data Collection",
+          "description": "Collect data from various sources",
+          "status": "In Progress",
+          "deadline": "2024-06-01"
+        },
+        {
+          "id": 902,
+          "name": "Data Processing",
+          "description": "Process and clean the collected data",
+          "status": "Pending",
+          "deadline": "2024-10-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 80000,
+        "expenses": 32000,
+        "remainingBudget": 48000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 901,
+            "progress": 60
+          },
+          {
+            "taskId": 902,
+            "progress": 20
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 10,
+      "projectOverview": {
+        "name": "Machine Learning Model",
+        "startDate": "2023-10-01",
+        "endDate": "2024-10-01",
+        "status": "In Progress",
+        "progress": 65
+      },
+      "tasks": [
+        {
+          "id": 1001,
+          "name": "Data Preparation",
+          "description": "Prepare data for model training",
+          "status": "Completed",
+          "deadline": "2024-01-01"
+        },
+        {
+          "id": 1002,
+          "name": "Model Training",
+          "description": "Train machine learning model",
+          "status": "In Progress",
+          "deadline": "2024-07-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 90000,
+        "expenses": 58000,
+        "remainingBudget": 32000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 1001,
+            "progress": 100
+          },
+          {
+            "taskId": 1002,
+            "progress": 50
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 11,
+      "projectOverview": {
+        "name": "Blockchain Implementation",
+        "startDate": "2024-04-01",
+        "endDate": "2025-04-01",
+        "status": "In Progress",
+        "progress": 25
+      },
+      "tasks": [
+        {
+          "id": 1101,
+          "name": "Blockchain Research",
+          "description": "Research blockchain technologies",
+          "status": "In Progress",
+          "deadline": "2024-08-01"
+        },
+        {
+          "id": 1102,
+          "name": "Develop Blockchain",
+          "description": "Develop blockchain solution",
+          "status": "Pending",
+          "deadline": "2025-02-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 95000,
+        "expenses": 23750,
+        "remainingBudget": 71250
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 1101,
+            "progress": 50
+          },
+          {
+            "taskId": 1102,
+            "progress": 0
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 12,
+      "projectOverview": {
+        "name": "IoT Development",
+        "startDate": "2023-11-01",
+        "endDate": "2024-11-01",
+        "status": "In Progress",
+        "progress": 60
+      },
+      "tasks": [
+        {
+          "id": 1201,
+          "name": "Hardware Setup",
+          "description": "Set up IoT hardware devices",
+          "status": "Completed",
+          "deadline": "2024-04-01"
+        },
+        {
+          "id": 1202,
+          "name": "Software Integration",
+          "description": "Integrate software with IoT devices",
+          "status": "In Progress",
+          "deadline": "2024-09-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 70000,
+        "expenses": 42000,
+        "remainingBudget": 28000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 1201,
+            "progress": 100
+          },
+          {
+            "taskId": 1202,
+            "progress": 50
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 13,
+      "projectOverview": {
+        "name": "Digital Marketing Campaign",
+        "startDate": "2024-02-01",
+        "endDate": "2024-12-01",
+        "status": "In Progress",
+        "progress": 80
+      },
+      "tasks": [
+        {
+          "id": 1301,
+          "name": "Content Creation",
+          "description": "Create content for the campaign",
+          "status": "Completed",
+          "deadline": "2024-06-01"
+        },
+        {
+          "id": 1302,
+          "name": "SEO Optimization",
+          "description": "Optimize campaign for search engines",
+          "status": "In Progress",
+          "deadline": "2024-11-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 50000,
+        "expenses": 40000,
+        "remainingBudget": 10000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 1301,
+            "progress": 100
+          },
+          {
+            "taskId": 1302,
+            "progress": 60
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 14,
+      "projectOverview": {
+        "name": "Customer Feedback System",
+        "startDate": "2023-12-01",
+        "endDate": "2024-12-01",
+        "status": "In Progress",
+        "progress": 45
+      },
+      "tasks": [
+        {
+          "id": 1401,
+          "name": "Requirement Gathering",
+          "description": "Gather requirements for the feedback system",
+          "status": "Completed",
+          "deadline": "2024-03-01"
+        },
+        {
+          "id": 1402,
+          "name": "System Development",
+          "description": "Develop the feedback system",
+          "status": "In Progress",
+          "deadline": "2024-09-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 60000,
+        "expenses": 27000,
+        "remainingBudget": 33000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 1401,
+            "progress": 100
+          },
+          {
+            "taskId": 1402,
+            "progress": 40
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 15,
+      "projectOverview": {
+        "name": "Social Media Platform",
+        "startDate": "2024-01-01",
+        "endDate": "2025-01-01",
+        "status": "In Progress",
+        "progress": 35
+      },
+      "tasks": [
+        {
+          "id": 1501,
+          "name": "UI Design",
+          "description": "Design the user interface",
+          "status": "In Progress",
+          "deadline": "2024-06-01"
+        },
+        {
+          "id": 1502,
+          "name": "Backend Integration",
+          "description": "Integrate backend with frontend",
+          "status": "Pending",
+          "deadline": "2024-12-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 150000,
+        "expenses": 52500,
+        "remainingBudget": 97500
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 1501,
+            "progress": 50
+          },
+          {
+            "taskId": 1502,
+            "progress": 20
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 16,
+      "projectOverview": {
+        "name": "Voice Recognition System",
+        "startDate": "2023-08-01",
+        "endDate": "2024-08-01",
+        "status": "In Progress",
+        "progress": 55
+      },
+      "tasks": [
+        {
+          "id": 1601,
+          "name": "Data Collection",
+          "description": "Collect voice data for training",
+          "status": "
