@@ -106,32 +106,85 @@
           "status": "Pending"
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "AI Chatbot Integration",
+      "startDate": "2025-01-05",
+      "endDate": "2025-02-25",
+      "status": "In Progress",
+      "progress": 50,
+      "tasks": [
+        {
+          "id": 401,
+          "name": "Research and Select NLP Framework",
+          "description": "Identify and evaluate NLP frameworks like Dialogflow and Rasa.",
+          "deadline": "2025-01-15",
+          "status": "Completed"
+        },
+        {
+          "id": 402,
+          "name": "Build Backend for Chatbot",
+          "description": "Develop API for chatbot integration.",
+          "deadline": "2025-01-30",
+          "status": "In Progress"
+        },
+        {
+          "id": 403,
+          "name": "Train AI Model",
+          "description": "Train the chatbot using a dataset of 50,000 intents.",
+          "deadline": "2025-02-10",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Digital Marketing Campaign",
+      "startDate": "2025-03-01",
+      "endDate": "2025-04-15",
+      "status": "Not Started",
+      "progress": 0,
+      "tasks": [
+        {
+          "id": 501,
+          "name": "Define Target Audience",
+          "description": "Analyze market data to segment audience groups.",
+          "deadline": "2025-03-05",
+          "status": "Pending"
+        },
+        {
+          "id": 502,
+          "name": "Create Ad Content",
+          "description": "Develop creative content for social media and PPC campaigns.",
+          "deadline": "2025-03-10",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "ERP System Deployment",
+      "startDate": "2024-12-15",
+      "endDate": "2025-03-15",
+      "status": "In Progress",
+      "progress": 75,
+      "tasks": [
+        {
+          "id": 601,
+          "name": "Requirement Gathering",
+          "description": "Conduct workshops to gather system requirements.",
+          "deadline": "2025-01-05",
+          "status": "Completed"
+        },
+        {
+          "id": 602,
+          "name": "System Configuration",
+          "description": "Customize modules for inventory and HR management.",
+          "deadline": "2025-02-20",
+          "status": "In Progress"
+        }
+      ]
     }
-  ],
-  "budget": {
-    "totalSales": 112450,
-    "totalBudget": 150000,
-    "totalExpenses": 86500,
-    "breakdown": [
-      {
-        "category": "Development",
-        "amount": 50000
-      },
-      {
-        "category": "Marketing",
-        "amount": 25000
-      },
-      {
-        "category": "Operational Costs",
-        "amount": 11500
-      }
-    ]
-  },
-  "analytics": {
-    "monthlyProgress": [
-      { "month": "January", "completed": 25 },
-      { "month": "February", "completed": 45 },
-      { "month": "March", "completed": 60 }
-    ]
-  }
+  ]
 }
