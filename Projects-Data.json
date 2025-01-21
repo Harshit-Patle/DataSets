@@ -224,6 +224,96 @@
     "expenses": 80000,
     "remainingBudget": 120000
   }
+},
+    {
+  "projectId": 7,
+  "projectOverview": {
+    "name": "Blockchain Integration",
+    "startDate": "2025-02-15",
+    "endDate": "2025-11-30",
+    "status": "In Progress"
+  },
+  "tasks": [
+    {
+      "id": 701,
+      "name": "Initial Research",
+      "description": "Conduct research on blockchain technologies.",
+      "deadline": "2025-03-01",
+      "status": "Completed"
+    },
+    {
+      "id": 702,
+      "name": "Prototype Development",
+      "description": "Develop a prototype for blockchain integration.",
+      "deadline": "2025-06-01",
+      "status": "In Progress"
+    },
+    {
+      "id": 703,
+      "name": "Full Implementation",
+      "description": "Implement blockchain across all systems.",
+      "deadline": "2025-11-01",
+      "status": "Pending"
+    }
+  ],
+  "progress": {
+    "totalProgress": 30,
+    "tasks": [
+      { "taskId": 701, "progress": 100 },
+      { "taskId": 702, "progress": 20 },
+      { "taskId": 703, "progress": 0 }
+    ]
+  },
+  "budget": {
+    "totalBudget": 300000,
+    "expenses": 50000,
+    "remainingBudget": 250000
+  }
+},
+{
+  "projectId": 8,
+  "projectOverview": {
+    "name": "E-Commerce Platform Upgrade",
+    "startDate": "2025-01-25",
+    "endDate": "2025-05-30",
+    "status": "In Progress"
+  },
+  "tasks": [
+    {
+      "id": 801,
+      "name": "Backend Improvements",
+      "description": "Optimize backend performance.",
+      "deadline": "2025-03-15",
+      "status": "Completed"
+    },
+    {
+      "id": 802,
+      "name": "Frontend Redesign",
+      "description": "Redesign the user interface.",
+      "deadline": "2025-04-30",
+      "status": "In Progress"
+    },
+    {
+      "id": 803,
+      "name": "Feature Addition",
+      "description": "Add new features to the platform.",
+      "deadline": "2025-05-25",
+      "status": "Pending"
+    }
+  ],
+  "progress": {
+    "totalProgress": 50,
+    "tasks": [
+      { "taskId": 801, "progress": 100 },
+      { "taskId": 802, "progress": 40 },
+      { "taskId": 803, "progress": 0 }
+    ]
+  },
+  "budget": {
+    "totalBudget": 100000,
+    "expenses": 40000,
+    "remainingBudget": 60000
+  }
 }
   ]
 }
