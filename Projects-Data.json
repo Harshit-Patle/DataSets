@@ -134,6 +134,96 @@
         "expenses": 65000,
         "remainingBudget": 55000
       }
+    },
+    {
+  "projectId": 5,
+  "projectOverview": {
+    "name": "AI-Based Customer Support",
+    "startDate": "2025-01-20",
+    "endDate": "2025-07-15",
+    "status": "In Progress"
+  },
+  "tasks": [
+    {
+      "id": 501,
+      "name": "Requirement Analysis",
+      "description": "Gather requirements for the AI support system.",
+      "deadline": "2025-02-05",
+      "status": "Completed"
+    },
+    {
+      "id": 502,
+      "name": "Model Training",
+      "description": "Train AI models on customer data.",
+      "deadline": "2025-04-01",
+      "status": "In Progress"
+    },
+    {
+      "id": 503,
+      "name": "System Integration",
+      "description": "Integrate AI support system with existing CRM.",
+      "deadline": "2025-06-01",
+      "status": "Pending"
     }
+  ],
+  "progress": {
+    "totalProgress": 45,
+    "tasks": [
+      { "taskId": 501, "progress": 100 },
+      { "taskId": 502, "progress": 50 },
+      { "taskId": 503, "progress": 0 }
+    ]
+  },
+  "budget": {
+    "totalBudget": 150000,
+    "expenses": 45000,
+    "remainingBudget": 105000
+  }
+},
+{
+  "projectId": 6,
+  "projectOverview": {
+    "name": "IoT Smart Home System",
+    "startDate": "2025-02-01",
+    "endDate": "2025-09-30",
+    "status": "In Progress"
+  },
+  "tasks": [
+    {
+      "id": 601,
+      "name": "Hardware Design",
+      "description": "Design IoT devices for smart home applications.",
+      "deadline": "2025-04-01",
+      "status": "Completed"
+    },
+    {
+      "id": 602,
+      "name": "Software Development",
+      "description": "Develop software for device communication and control.",
+      "deadline": "2025-07-15",
+      "status": "In Progress"
+    },
+    {
+      "id": 603,
+      "name": "User Testing",
+      "description": "Conduct user testing and feedback sessions.",
+      "deadline": "2025-09-15",
+      "status": "Pending"
+    }
+  ],
+  "progress": {
+    "totalProgress": 40,
+    "tasks": [
+      { "taskId": 601, "progress": 100 },
+      { "taskId": 602, "progress": 30 },
+      { "taskId": 603, "progress": 0 }
+    ]
+  },
+  "budget": {
+    "totalBudget": 200000,
+    "expenses": 80000,
+    "remainingBudget": 120000
+  }
+}
   ]
 }
