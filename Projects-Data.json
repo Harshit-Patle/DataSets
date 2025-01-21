@@ -1,12 +1,14 @@
 {
   "projects": [
     {
-      "id": 1,
-      "name": "Website Redesign",
-      "startDate": "2025-01-10",
-      "endDate": "2025-03-20",
-      "status": "In Progress",
-      "progress": 45,
+      "projectId": 1,
+      "projectOverview": {
+        "name": "Website Redesign",
+        "startDate": "2025-01-10",
+        "endDate": "2025-03-20",
+        "status": "In Progress",
+        "progress": 45
+      },
       "tasks": [
         {
           "id": 101,
@@ -36,15 +38,31 @@
           "deadline": "2025-03-15",
           "status": "Pending"
         }
-      ]
+      ],
+      "progress": {
+        "totalProgress": 45,
+        "tasks": [
+          { "taskId": 101, "progress": 100 },
+          { "taskId": 102, "progress": 60 },
+          { "taskId": 103, "progress": 0 },
+          { "taskId": 104, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 50000,
+        "expenses": 20000,
+        "remainingBudget": 30000
+      }
     },
     {
-      "id": 2,
-      "name": "Mobile App Development",
-      "startDate": "2024-12-01",
-      "endDate": "2025-02-28",
-      "status": "Delayed",
-      "progress": 65,
+      "projectId": 2,
+      "projectOverview": {
+        "name": "Mobile App Development",
+        "startDate": "2024-12-01",
+        "endDate": "2025-02-28",
+        "status": "Delayed",
+        "progress": 65
+      },
       "tasks": [
         {
           "id": 201,
@@ -74,15 +92,31 @@
           "deadline": "2025-02-20",
           "status": "Pending"
         }
-      ]
+      ],
+      "progress": {
+        "totalProgress": 65,
+        "tasks": [
+          { "taskId": 201, "progress": 100 },
+          { "taskId": 202, "progress": 100 },
+          { "taskId": 203, "progress": 50 },
+          { "taskId": 204, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 70000,
+        "expenses": 45000,
+        "remainingBudget": 25000
+      }
     },
     {
-      "id": 3,
-      "name": "E-Commerce Platform",
-      "startDate": "2025-02-01",
-      "endDate": "2025-06-30",
-      "status": "Not Started",
-      "progress": 0,
+      "projectId": 3,
+      "projectOverview": {
+        "name": "E-Commerce Platform",
+        "startDate": "2025-02-01",
+        "endDate": "2025-06-30",
+        "status": "Not Started",
+        "progress": 0
+      },
       "tasks": [
         {
           "id": 301,
@@ -105,15 +139,30 @@
           "deadline": "2025-04-10",
           "status": "Pending"
         }
-      ]
+      ],
+      "progress": {
+        "totalProgress": 0,
+        "tasks": [
+          { "taskId": 301, "progress": 0 },
+          { "taskId": 302, "progress": 0 },
+          { "taskId": 303, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 100000,
+        "expenses": 0,
+        "remainingBudget": 100000
+      }
     },
     {
-      "id": 4,
-      "name": "AI Chatbot Integration",
-      "startDate": "2025-01-05",
-      "endDate": "2025-02-25",
-      "status": "In Progress",
-      "progress": 50,
+      "projectId": 4,
+      "projectOverview": {
+        "name": "AI Chatbot Integration",
+        "startDate": "2025-01-05",
+        "endDate": "2025-02-25",
+        "status": "In Progress",
+        "progress": 50
+      },
       "tasks": [
         {
           "id": 401,
@@ -136,15 +185,30 @@
           "deadline": "2025-02-10",
           "status": "Pending"
         }
-      ]
+      ],
+      "progress": {
+        "totalProgress": 50,
+        "tasks": [
+          { "taskId": 401, "progress": 100 },
+          { "taskId": 402, "progress": 60 },
+          { "taskId": 403, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 30000,
+        "expenses": 15000,
+        "remainingBudget": 15000
+      }
     },
     {
-      "id": 5,
-      "name": "Digital Marketing Campaign",
-      "startDate": "2025-03-01",
-      "endDate": "2025-04-15",
-      "status": "Not Started",
-      "progress": 0,
+      "projectId": 5,
+      "projectOverview": {
+        "name": "Digital Marketing Campaign",
+        "startDate": "2025-03-01",
+        "endDate": "2025-04-15",
+        "status": "Not Started",
+        "progress": 0
+      },
       "tasks": [
         {
           "id": 501,
@@ -160,15 +224,29 @@
           "deadline": "2025-03-10",
           "status": "Pending"
         }
-      ]
+      ],
+      "progress": {
+        "totalProgress": 0,
+        "tasks": [
+          { "taskId": 501, "progress": 0 },
+          { "taskId": 502, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 50000,
+        "expenses": 0,
+        "remainingBudget": 50000
+      }
     },
     {
-      "id": 6,
-      "name": "ERP System Deployment",
-      "startDate": "2024-12-15",
-      "endDate": "2025-03-15",
-      "status": "In Progress",
-      "progress": 75,
+      "projectId": 6,
+      "projectOverview": {
+        "name": "ERP System Deployment",
+        "startDate": "2024-12-15",
+        "endDate": "2025-03-15",
+        "status": "In Progress",
+        "progress": 75
+      },
       "tasks": [
         {
           "id": 601,
@@ -184,7 +262,19 @@
           "deadline": "2025-02-20",
           "status": "In Progress"
         }
-      ]
+      ],
+      "progress": {
+        "totalProgress": 75,
+        "tasks": [
+          { "taskId": 601, "progress": 100 },
+          { "taskId": 602, "progress": 60 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 120000,
+        "expenses": 90000,
+        "remainingBudget": 30000
+      }
     }
   ]
 }
