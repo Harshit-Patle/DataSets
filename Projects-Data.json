@@ -644,19 +644,6 @@
           }
         ]
       }
-    },
-    {
-      "projectId": 16,
-      "projectOverview": {
-        "name": "Voice Recognition System",
-        "startDate": "2023-08-01",
-        "endDate": "2024-08-01",
-        "status": "In Progress",
-        "progress": 55
-      },
-      "tasks": [
-        {
-          "id": 1601,
-          "name": "Data Collection",
-          "description": "Collect voice data for training",
-          "status": "
+    }
+    }
+]
