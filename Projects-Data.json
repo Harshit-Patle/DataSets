@@ -3,7 +3,7 @@
     {
       "projectId": 1,
       "projectOverview": {
-        "name": "Project Alpha",
+        "name": "Website Redesign",
         "startDate": "2024-01-01",
         "endDate": "2024-12-31",
         "status": "In Progress",
@@ -12,15 +12,15 @@
       "tasks": [
         {
           "id": 101,
-          "name": "Task 1",
-          "description": "Task description here",
+          "name": "Design Mockups",
+          "description": "Create design mockups for the new website layout",
           "status": "In Progress",
           "deadline": "2024-02-28"
         },
         {
           "id": 102,
-          "name": "Task 2",
-          "description": "Another task description",
+          "name": "Develop Frontend",
+          "description": "Implement the frontend using React",
           "status": "Pending",
           "deadline": "2024-05-15"
         }
@@ -46,7 +46,7 @@
     {
       "projectId": 2,
       "projectOverview": {
-        "name": "Project Beta",
+        "name": "Mobile App Development",
         "startDate": "2023-05-15",
         "endDate": "2024-05-15",
         "status": "Completed",
@@ -55,15 +55,15 @@
       "tasks": [
         {
           "id": 201,
-          "name": "Task A",
-          "description": "Task A description",
+          "name": "Backend API",
+          "description": "Develop backend API using Node.js",
           "status": "Completed",
           "deadline": "2024-01-31"
         },
         {
           "id": 202,
-          "name": "Task B",
-          "description": "Task B description",
+          "name": "UI/UX Design",
+          "description": "Design the user interface and user experience",
           "status": "Completed",
           "deadline": "2024-03-01"
         }
@@ -81,6 +81,92 @@
           },
           {
             "taskId": 202,
+            "progress": 100
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 3,
+      "projectOverview": {
+        "name": "Cloud Migration",
+        "startDate": "2024-06-01",
+        "endDate": "2025-06-01",
+        "status": "In Progress",
+        "progress": 30
+      },
+      "tasks": [
+        {
+          "id": 301,
+          "name": "Infrastructure Setup",
+          "description": "Set up cloud infrastructure on AWS",
+          "status": "In Progress",
+          "deadline": "2024-10-01"
+        },
+        {
+          "id": 302,
+          "name": "Data Migration",
+          "description": "Migrate data from on-premise to cloud",
+          "status": "Pending",
+          "deadline": "2025-02-15"
+        }
+      ],
+      "budget": {
+        "totalBudget": 60000,
+        "expenses": 18000,
+        "remainingBudget": 42000
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 301,
+            "progress": 40
+          },
+          {
+            "taskId": 302,
+            "progress": 0
+          }
+        ]
+      }
+    },
+    {
+      "projectId": 4,
+      "projectOverview": {
+        "name": "CRM System Upgrade",
+        "startDate": "2023-09-01",
+        "endDate": "2024-09-01",
+        "status": "Completed",
+        "progress": 100
+      },
+      "tasks": [
+        {
+          "id": 401,
+          "name": "Requirement Gathering",
+          "description": "Gather requirements for the new CRM system",
+          "status": "Completed",
+          "deadline": "2024-05-01"
+        },
+        {
+          "id": 402,
+          "name": "System Implementation",
+          "description": "Implement the new CRM system",
+          "status": "Completed",
+          "deadline": "2024-08-01"
+        }
+      ],
+      "budget": {
+        "totalBudget": 85000,
+        "expenses": 85000,
+        "remainingBudget": 0
+      },
+      "progress": {
+        "tasks": [
+          {
+            "taskId": 401,
+            "progress": 100
+          },
+          {
+            "taskId": 402,
             "progress": 100
           }
         ]
