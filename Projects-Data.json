@@ -1,7 +1,6 @@
 {
   "projects": [
     {
-      "projectId": 10,
       "projectId": 1,
       "projectOverview": {
         "name": "Customer Loyalty Program",
@@ -9,11 +8,9 @@
         "endDate": "2025-05-30",
         "status": "In Progress",
         "progress": 35
-        "status": "In Progress"
       },
       "tasks": [
         {
-          "id": 1001,
           "id": 101,
           "name": "Program Structure Design",
           "description": "Define reward tiers and point system.",
@@ -21,7 +18,6 @@
           "status": "Completed"
         },
         {
-          "id": 1002,
           "id": 102,
           "name": "Mobile App Integration",
           "description": "Integrate loyalty features into existing app.",
@@ -29,29 +25,29 @@
           "status": "In Progress"
         },
         {
-          "id": 1003,
           "id": 103,
           "name": "Partner Network Setup",
           "description": "Establish partnerships for reward redemption.",
           "deadline": "2025-05-15",
-@@ -35,9 +34,9 @@
+          "status": "Pending"
+        }
+      ],
       "progress": {
         "totalProgress": 35,
         "tasks": [
-          { "taskId": 1001, "progress": 100 },
-          { "taskId": 1002, "progress": 45 },
-          { "taskId": 1003, "progress": 0 }
           { "taskId": 101, "progress": 100 },
           { "taskId": 102, "progress": 45 },
           { "taskId": 103, "progress": 0 }
         ]
       },
       "budget": {
-@@ -47,77 +46,30 @@
+        "totalBudget": 50000,
+        "expenses": 25000,
+        "remainingBudget": 25000
       }
     },
     {
-      "projectId": 11,
+      "projectId": 2,
       "projectOverview": {
         "name": "AI Chatbot Implementation",
         "startDate": "2025-03-01",
@@ -61,21 +57,21 @@
       },
       "tasks": [
         {
-          "id": 1101,
+          "id": 201,
           "name": "Requirements Analysis",
           "description": "Define chatbot capabilities and use cases.",
           "deadline": "2025-03-15",
           "status": "Pending"
         },
         {
-          "id": 1102,
+          "id": 202,
           "name": "NLP Model Training",
           "description": "Train and fine-tune language model.",
           "deadline": "2025-04-30",
           "status": "Pending"
         },
         {
-          "id": 1103,
+          "id": 203,
           "name": "Integration Testing",
           "description": "Test chatbot in various scenarios.",
           "deadline": "2025-05-30",
@@ -85,9 +81,9 @@
       "progress": {
         "totalProgress": 0,
         "tasks": [
-          { "taskId": 1101, "progress": 0 },
-          { "taskId": 1102, "progress": 0 },
-          { "taskId": 1103, "progress": 0 }
+          { "taskId": 201, "progress": 0 },
+          { "taskId": 202, "progress": 0 },
+          { "taskId": 203, "progress": 0 }
         ]
       },
       "budget": {
@@ -97,7 +93,6 @@
       }
     },
     {
-      "projectId": 12,
       "projectId": 3,
       "projectOverview": {
         "name": "Supply Chain Optimization",
@@ -105,11 +100,9 @@
         "endDate": "2025-04-30",
         "status": "In Progress",
         "progress": 60
-        "status": "In Progress"
       },
       "tasks": [
         {
-          "id": 1201,
           "id": 301,
           "name": "Process Analysis",
           "description": "Map current supply chain processes.",
@@ -117,7 +110,6 @@
           "status": "Completed"
         },
         {
-          "id": 1202,
           "id": 302,
           "name": "Vendor Integration",
           "description": "Implement new vendor management system.",
@@ -125,29 +117,29 @@
           "status": "Completed"
         },
         {
-          "id": 1203,
           "id": 303,
           "name": "Automation Implementation",
           "description": "Deploy automated workflow systems.",
           "deadline": "2025-04-15",
-@@ -127,9 +79,9 @@
+          "status": "In Progress"
+        }
+      ],
       "progress": {
         "totalProgress": 60,
         "tasks": [
-          { "taskId": 1201, "progress": 100 },
-          { "taskId": 1202, "progress": 100 },
-          { "taskId": 1203, "progress": 35 }
           { "taskId": 301, "progress": 100 },
           { "taskId": 302, "progress": 100 },
           { "taskId": 303, "progress": 35 }
         ]
       },
       "budget": {
-@@ -139,325 +91,48 @@
+        "totalBudget": 200000,
+        "expenses": 100000,
+        "remainingBudget": 100000
       }
     },
     {
-      "projectId": 13,
+      "projectId": 4,
       "projectOverview": {
         "name": "Green Energy Initiative",
         "startDate": "2025-03-15",
@@ -157,21 +149,21 @@
       },
       "tasks": [
         {
-          "id": 1301,
+          "id": 401,
           "name": "Energy Audit",
           "description": "Conduct comprehensive energy usage analysis.",
           "deadline": "2025-04-15",
           "status": "Pending"
         },
         {
-          "id": 1302,
+          "id": 402,
           "name": "Solar Panel Installation",
           "description": "Install and configure solar energy system.",
           "deadline": "2025-07-30",
           "status": "Pending"
         },
         {
-          "id": 1303,
+          "id": 403,
           "name": "Smart Grid Implementation",
           "description": "Implement smart energy monitoring system.",
           "deadline": "2025-09-15",
@@ -181,9 +173,9 @@
       "progress": {
         "totalProgress": 0,
         "tasks": [
-          { "taskId": 1301, "progress": 0 },
-          { "taskId": 1302, "progress": 0 },
-          { "taskId": 1303, "progress": 0 }
+          { "taskId": 401, "progress": 0 },
+          { "taskId": 402, "progress": 0 },
+          { "taskId": 403, "progress": 0 }
         ]
       },
       "budget": {
@@ -193,7 +185,7 @@
       }
     },
     {
-      "projectId": 14,
+      "projectId": 5,
       "projectOverview": {
         "name": "HR Digital Transformation",
         "startDate": "2025-02-01",
@@ -203,21 +195,21 @@
       },
       "tasks": [
         {
-          "id": 1401,
+          "id": 501,
           "name": "Digital Tools Assessment",
           "description": "Evaluate current HR tools and needs.",
           "deadline": "2025-02-15",
           "status": "Completed"
         },
         {
-          "id": 1402,
+          "id": 502,
           "name": "HRIS Implementation",
           "description": "Deploy new HR Information System.",
           "deadline": "2025-04-01",
           "status": "In Progress"
         },
         {
-          "id": 1403,
+          "id": 503,
           "name": "Employee Self-Service Portal",
           "description": "Develop employee portal for HR services.",
           "deadline": "2025-05-01",
@@ -227,9 +219,9 @@
       "progress": {
         "totalProgress": 40,
         "tasks": [
-          { "taskId": 1401, "progress": 100 },
-          { "taskId": 1402, "progress": 50 },
-          { "taskId": 1403, "progress": 0 }
+          { "taskId": 501, "progress": 100 },
+          { "taskId": 502, "progress": 50 },
+          { "taskId": 503, "progress": 0 }
         ]
       },
       "budget": {
@@ -237,256 +229,6 @@
         "expenses": 60000,
         "remainingBudget": 90000
       }
-    },
-    {
-      "projectId": 15,
-      "projectId": 4,
-      "projectOverview": {
-        "name": "Cybersecurity Enhancement",
-        "startDate": "2025-01-15",
-        "endDate": "2025-04-30",
-        "status": "In Progress",
-        "progress": 70
-      },
-      "tasks": [
-        {
-          "id": 1501,
-          "name": "Security Audit",
-          "description": "Perform comprehensive security assessment.",
-          "deadline": "2025-02-01",
-          "status": "Completed"
-        },
-        {
-          "id": 1502,
-          "name": "Firewall Upgrade",
-          "description": "Implement next-gen firewall solution.",
-          "deadline": "2025-03-15",
-          "status": "Completed"
-        },
-        {
-          "id": 1503,
-          "name": "Employee Training",
-          "description": "Conduct security awareness training.",
-          "deadline": "2025-04-15",
-          "status": "In Progress"
-        }
-      ],
-      "progress": {
-        "totalProgress": 70,
-        "tasks": [
-          { "taskId": 1501, "progress": 100 },
-          { "taskId": 1502, "progress": 100 },
-          { "taskId": 1503, "progress": 40 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 250000,
-        "expenses": 175000,
-        "remainingBudget": 75000
-      }
-    },
-    {
-      "projectId": 16,
-      "projectOverview": {
-        "name": "International Market Expansion",
-        "startDate": "2025-03-01",
-        "endDate": "2025-12-31",
-        "status": "Not Started",
-        "progress": 0
-      },
-      "tasks": [
-        {
-          "id": 1601,
-          "name": "Market Research",
-          "description": "Analyze target markets and competition.",
-          "deadline": "2025-04-30",
-          "status": "Pending"
-        },
-        {
-          "id": 1602,
-          "name": "Legal Compliance",
-          "description": "Ensure regulatory compliance in new markets.",
-          "deadline": "2025-07-31",
-          "status": "Pending"
-        },
-        {
-          "id": 1603,
-          "name": "Local Partnerships",
-          "description": "Establish partnerships in target markets.",
-          "deadline": "2025-10-31",
-          "status": "Pending"
-        }
-      ],
-      "progress": {
-        "totalProgress": 0,
-        "tasks": [
-          { "taskId": 1601, "progress": 0 },
-          { "taskId": 1602, "progress": 0 },
-          { "taskId": 1603, "progress": 0 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 1000000,
-        "expenses": 0,
-        "remainingBudget": 1000000
-      }
-    },
-    {
-      "projectId": 17,
-      "projectOverview": {
-        "name": "Product Localization",
-        "startDate": "2025-02-15",
-        "endDate": "2025-05-30",
-        "status": "In Progress",
-        "progress": 30
-        "endDate": "2025-08-30",
-        "status": "In Progress"
-      },
-      "tasks": [
-        {
-          "id": 1701,
-          "name": "Content Analysis",
-          "description": "Identify content requiring localization.",
-          "deadline": "2025-03-01",
-          "id": 401,
-          "name": "Risk Assessment",
-          "description": "Identify potential vulnerabilities in current systems.",
-          "deadline": "2025-04-15",
-          "status": "Completed"
-        },
-        {
-          "id": 1702,
-          "name": "Translation Services",
-          "description": "Engage translation services for key markets.",
-          "deadline": "2025-04-15",
-          "id": 402,
-          "name": "Firewall Upgrade",
-          "description": "Install and configure advanced firewall systems.",
-          "deadline": "2025-06-15",
-          "status": "In Progress"
-        },
-        {
-          "id": 1703,
-          "name": "Local Testing",
-          "description": "Test localized versions in target markets.",
-          "deadline": "2025-05-15",
-          "status": "Pending"
-        }
-      ],
-      "progress": {
-        "totalProgress": 30,
-        "tasks": [
-          { "taskId": 1701, "progress": 100 },
-          { "taskId": 1702, "progress": 40 },
-          { "taskId": 1703, "progress": 0 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 200000,
-        "expenses": 60000,
-        "remainingBudget": 140000
-      }
-    },
-    {
-      "projectId": 18,
-      "projectOverview": {
-        "name": "Warehouse Automation",
-        "startDate": "2025-04-01",
-        "endDate": "2025-09-30",
-        "status": "Not Started",
-        "progress": 0
-      },
-      "tasks": [
-        {
-          "id": 1801,
-          "name": "Automation Planning",
-          "description": "Design automated warehouse systems.",
-          "deadline": "2025-05-15",
-          "status": "Pending"
-        },
-        {
-          "id": 1802,
-          "name": "Robot Implementation",
-          "description": "Install and configure robotic systems.",
-          "deadline": "2025-07-31",
-          "status": "Pending"
-        },
-        {
-          "id": 1803,
-          "name": "Staff Training",
-          "description": "Train staff on new automated systems.",
-          "deadline": "2025-09-15",
-          "status": "Pending"
-        }
-      ],
-      "progress": {
-        "totalProgress": 0,
-        "tasks": [
-          { "taskId": 1801, "progress": 0 },
-          { "taskId": 1802, "progress": 0 },
-          { "taskId": 1803, "progress": 0 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 750000,
-        "expenses": 0,
-        "remainingBudget": 750000
-      }
-    },
-    {
-      "projectId": 19,
-      "projectOverview": {
-        "name": "Virtual Reality Training",
-        "startDate": "2025-03-15",
-        "endDate": "2025-08-31",
-        "status": "Not Started",
-        "progress": 0
-      },
-      "tasks": [
-        {
-          "id": 1901,
-          "name": "Content Development",
-          "description": "Create VR training scenarios.",
-          "deadline": "2025-05-15",
-          "status": "Pending"
-        },
-        {
-          "id": 1902,
-          "name": "Hardware Setup",
-          "description": "Purchase and configure VR equipment.",
-          "deadline": "2025-06-30",
-          "status": "Pending"
-        },
-        {
-          "id": 1903,
-          "name": "Pilot Program",
-          "description": "Run pilot training program with test group.",
-          "id": 403,
-          "name": "Employee Training",
-          "description": "Conduct workshops on security best practices.",
-          "deadline": "2025-08-15",
-          "status": "Pending"
-        }
-      ],
-      "progress": {
-        "totalProgress": 0,
-        "totalProgress": 55,
-        "tasks": [
-          { "taskId": 1901, "progress": 0 },
-          { "taskId": 1902, "progress": 0 },
-          { "taskId": 1903, "progress": 0 }
-          { "taskId": 401, "progress": 100 },
-          { "taskId": 402, "progress": 50 },
-          { "taskId": 403, "progress": 0 }
-        ]
-      },
-      "budget": {
-        "totalBudget": 300000,
-        "expenses": 0,
-        "remainingBudget": 300000
-        "totalBudget": 120000,
-        "expenses": 65000,
-        "remainingBudget": 55000
-      }
     }
   ]
+}
