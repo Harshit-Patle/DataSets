@@ -1,0 +1,137 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Website Redesign",
+      "startDate": "2025-01-10",
+      "endDate": "2025-03-20",
+      "status": "In Progress",
+      "progress": 45,
+      "tasks": [
+        {
+          "id": 101,
+          "name": "Gather Requirements",
+          "description": "Collect input from stakeholders on desired features.",
+          "deadline": "2025-01-15",
+          "status": "Completed"
+        },
+        {
+          "id": 102,
+          "name": "Design Wireframes",
+          "description": "Create initial wireframes for the homepage and inner pages.",
+          "deadline": "2025-01-25",
+          "status": "In Progress"
+        },
+        {
+          "id": 103,
+          "name": "Build Homepage",
+          "description": "Develop and integrate the homepage layout.",
+          "deadline": "2025-02-10",
+          "status": "Pending"
+        },
+        {
+          "id": 104,
+          "name": "User Testing",
+          "description": "Conduct testing sessions to gather user feedback.",
+          "deadline": "2025-03-15",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mobile App Development",
+      "startDate": "2024-12-01",
+      "endDate": "2025-02-28",
+      "status": "Delayed",
+      "progress": 65,
+      "tasks": [
+        {
+          "id": 201,
+          "name": "Backend API Development",
+          "description": "Build and test RESTful APIs for mobile app functionality.",
+          "deadline": "2024-12-20",
+          "status": "Completed"
+        },
+        {
+          "id": 202,
+          "name": "UI/UX Design",
+          "description": "Create app designs focusing on usability and aesthetics.",
+          "deadline": "2025-01-10",
+          "status": "Completed"
+        },
+        {
+          "id": 203,
+          "name": "Integrate Payment Gateway",
+          "description": "Integrate payment gateway and test transactions.",
+          "deadline": "2025-01-30",
+          "status": "In Progress"
+        },
+        {
+          "id": 204,
+          "name": "Beta Testing",
+          "description": "Launch beta version for testing by a selected user group.",
+          "deadline": "2025-02-20",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "E-Commerce Platform",
+      "startDate": "2025-02-01",
+      "endDate": "2025-06-30",
+      "status": "Not Started",
+      "progress": 0,
+      "tasks": [
+        {
+          "id": 301,
+          "name": "Market Research",
+          "description": "Analyze competitor platforms and identify market needs.",
+          "deadline": "2025-02-20",
+          "status": "Pending"
+        },
+        {
+          "id": 302,
+          "name": "Platform Architecture",
+          "description": "Design the architecture for scalability and reliability.",
+          "deadline": "2025-03-15",
+          "status": "Pending"
+        },
+        {
+          "id": 303,
+          "name": "Supplier Onboarding",
+          "description": "Reach out to suppliers to onboard them to the platform.",
+          "deadline": "2025-04-10",
+          "status": "Pending"
+        }
+      ]
+    }
+  ],
+  "budget": {
+    "totalSales": 112450,
+    "totalBudget": 150000,
+    "totalExpenses": 86500,
+    "breakdown": [
+      {
+        "category": "Development",
+        "amount": 50000
+      },
+      {
+        "category": "Marketing",
+        "amount": 25000
+      },
+      {
+        "category": "Operational Costs",
+        "amount": 11500
+      }
+    ]
+  },
+  "analytics": {
+    "monthlyProgress": [
+      { "month": "January", "completed": 25 },
+      { "month": "February", "completed": 45 },
+      { "month": "March", "completed": 60 }
+    ]
+  }
+}
