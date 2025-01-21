@@ -136,184 +136,434 @@
       }
     },
     {
-  "projectId": 5,
-  "projectOverview": {
-    "name": "AI-Based Customer Support",
-    "startDate": "2025-01-20",
-    "endDate": "2025-07-15",
-    "status": "In Progress"
-  },
-  "tasks": [
-    {
-      "id": 501,
-      "name": "Requirement Analysis",
-      "description": "Gather requirements for the AI support system.",
-      "deadline": "2025-02-05",
-      "status": "Completed"
+      "projectId": 5,
+      "projectOverview": {
+        "name": "AI-Based Customer Support",
+        "startDate": "2025-01-20",
+        "endDate": "2025-07-15",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 501,
+          "name": "Requirement Analysis",
+          "description": "Gather requirements for the AI support system.",
+          "deadline": "2025-02-05",
+          "status": "Completed"
+        },
+        {
+          "id": 502,
+          "name": "Model Training",
+          "description": "Train AI models on customer data.",
+          "deadline": "2025-04-01",
+          "status": "In Progress"
+        },
+        {
+          "id": 503,
+          "name": "System Integration",
+          "description": "Integrate AI support system with existing CRM.",
+          "deadline": "2025-06-01",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 45,
+        "tasks": [
+          { "taskId": 501, "progress": 100 },
+          { "taskId": 502, "progress": 50 },
+          { "taskId": 503, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 150000,
+        "expenses": 45000,
+        "remainingBudget": 105000
+      }
     },
     {
-      "id": 502,
-      "name": "Model Training",
-      "description": "Train AI models on customer data.",
-      "deadline": "2025-04-01",
-      "status": "In Progress"
+      "projectId": 6,
+      "projectOverview": {
+        "name": "IoT Smart Home System",
+        "startDate": "2025-02-01",
+        "endDate": "2025-09-30",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 601,
+          "name": "Hardware Design",
+          "description": "Design IoT devices for smart home applications.",
+          "deadline": "2025-04-01",
+          "status": "Completed"
+        },
+        {
+          "id": 602,
+          "name": "Software Development",
+          "description": "Develop software for device communication and control.",
+          "deadline": "2025-07-15",
+          "status": "In Progress"
+        },
+        {
+          "id": 603,
+          "name": "User Testing",
+          "description": "Conduct user testing and feedback sessions.",
+          "deadline": "2025-09-15",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 40,
+        "tasks": [
+          { "taskId": 601, "progress": 100 },
+          { "taskId": 602, "progress": 30 },
+          { "taskId": 603, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 200000,
+        "expenses": 80000,
+        "remainingBudget": 120000
+      }
     },
     {
-      "id": 503,
-      "name": "System Integration",
-      "description": "Integrate AI support system with existing CRM.",
-      "deadline": "2025-06-01",
-      "status": "Pending"
-    }
-  ],
-  "progress": {
-    "totalProgress": 45,
-    "tasks": [
-      { "taskId": 501, "progress": 100 },
-      { "taskId": 502, "progress": 50 },
-      { "taskId": 503, "progress": 0 }
-    ]
-  },
-  "budget": {
-    "totalBudget": 150000,
-    "expenses": 45000,
-    "remainingBudget": 105000
-  }
-},
-{
-  "projectId": 6,
-  "projectOverview": {
-    "name": "IoT Smart Home System",
-    "startDate": "2025-02-01",
-    "endDate": "2025-09-30",
-    "status": "In Progress"
-  },
-  "tasks": [
-    {
-      "id": 601,
-      "name": "Hardware Design",
-      "description": "Design IoT devices for smart home applications.",
-      "deadline": "2025-04-01",
-      "status": "Completed"
+      "projectId": 7,
+      "projectOverview": {
+        "name": "Blockchain Integration",
+        "startDate": "2025-02-15",
+        "endDate": "2025-11-30",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 701,
+          "name": "Initial Research",
+          "description": "Conduct research on blockchain technologies.",
+          "deadline": "2025-03-01",
+          "status": "Completed"
+        },
+        {
+          "id": 702,
+          "name": "Prototype Development",
+          "description": "Develop a prototype for blockchain integration.",
+          "deadline": "2025-06-01",
+          "status": "In Progress"
+        },
+        {
+          "id": 703,
+          "name": "Full Implementation",
+          "description": "Implement blockchain across all systems.",
+          "deadline": "2025-11-01",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 30,
+        "tasks": [
+          { "taskId": 701, "progress": 100 },
+          { "taskId": 702, "progress": 20 },
+          { "taskId": 703, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 300000,
+        "expenses": 50000,
+        "remainingBudget": 250000
+      }
     },
     {
-      "id": 602,
-      "name": "Software Development",
-      "description": "Develop software for device communication and control.",
-      "deadline": "2025-07-15",
-      "status": "In Progress"
+      "projectId": 8,
+      "projectOverview": {
+        "name": "E-Commerce Platform Upgrade",
+        "startDate": "2025-01-25",
+        "endDate": "2025-05-30",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 801,
+          "name": "Backend Improvements",
+          "description": "Optimize backend performance.",
+          "deadline": "2025-03-15",
+          "status": "Completed"
+        },
+        {
+          "id": 802,
+          "name": "Frontend Redesign",
+          "description": "Redesign the user interface.",
+          "deadline": "2025-04-30",
+          "status": "In Progress"
+        },
+        {
+          "id": 803,
+          "name": "Feature Addition",
+          "description": "Add new features to the platform.",
+          "deadline": "2025-05-25",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 50,
+        "tasks": [
+          { "taskId": 801, "progress": 100 },
+          { "taskId": 802, "progress": 40 },
+          { "taskId": 803, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 100000,
+        "expenses": 40000,
+        "remainingBudget": 60000
+      }
     },
     {
-      "id": 603,
-      "name": "User Testing",
-      "description": "Conduct user testing and feedback sessions.",
-      "deadline": "2025-09-15",
-      "status": "Pending"
-    }
-  ],
-  "progress": {
-    "totalProgress": 40,
-    "tasks": [
-      { "taskId": 601, "progress": 100 },
-      { "taskId": 602, "progress": 30 },
-      { "taskId": 603, "progress": 0 }
-    ]
-  },
-  "budget": {
-    "totalBudget": 200000,
-    "expenses": 80000,
-    "remainingBudget": 120000
-  }
-},
-    {
-  "projectId": 7,
-  "projectOverview": {
-    "name": "Blockchain Integration",
-    "startDate": "2025-02-15",
-    "endDate": "2025-11-30",
-    "status": "In Progress"
-  },
-  "tasks": [
-    {
-      "id": 701,
-      "name": "Initial Research",
-      "description": "Conduct research on blockchain technologies.",
-      "deadline": "2025-03-01",
-      "status": "Completed"
+      "projectId": 9,
+      "projectOverview": {
+        "name": "Marketing Campaign Launch",
+        "startDate": "2025-01-15",
+        "endDate": "2025-04-15",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 901,
+          "name": "Strategy Development",
+          "description": "Develop marketing strategy and plan.",
+          "deadline": "2025-02-01",
+          "status": "Completed"
+        },
+        {
+          "id": 902,
+          "name": "Content Creation",
+          "description": "Create content for the campaign.",
+          "deadline": "2025-03-10",
+          "status": "In Progress"
+        },
+        {
+          "id": 903,
+          "name": "Campaign Execution",
+          "description": "Execute the marketing campaign.",
+          "deadline": "2025-04-15",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 40,
+        "tasks": [
+          { "taskId": 901, "progress": 100 },
+          { "taskId": 902, "progress": 30 },
+          { "taskId": 903, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 80000,
+        "expenses": 30000,
+        "remainingBudget": 50000
+      }
     },
     {
-      "id": 702,
-      "name": "Prototype Development",
-      "description": "Develop a prototype for blockchain integration.",
-      "deadline": "2025-06-01",
-      "status": "In Progress"
+      "projectId": 10,
+      "projectOverview": {
+        "name": "HR Management System",
+        "startDate": "2025-01-05",
+        "endDate": "2025-06-30",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 1001,
+          "name": "Requirement Gathering",
+          "description": "Gather requirements for the HR system.",
+          "deadline": "2025-01-20",
+          "status": "Completed"
+        },
+        {
+          "id": 1002,
+          "name": "System Design",
+          "description": "Design the architecture of the HR system.",
+          "deadline": "2025-03-01",
+          "status": "In Progress"
+        },
+        {
+          "id": 1003,
+          "name": "Implementation",
+          "description": "Develop and implement the HR system.",
+          "deadline": "2025-06-01",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 35,
+        "tasks": [
+          { "taskId": 1001, "progress": 100 },
+          { "taskId": 1002, "progress": 30 },
+          { "taskId": 1003, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 120000,
+        "expenses": 40000,
+        "remainingBudget": 80000
+      }
     },
     {
-      "id": 703,
-      "name": "Full Implementation",
-      "description": "Implement blockchain across all systems.",
-      "deadline": "2025-11-01",
-      "status": "Pending"
-    }
-  ],
-  "progress": {
-    "totalProgress": 30,
-    "tasks": [
-      { "taskId": 701, "progress": 100 },
-      { "taskId": 702, "progress": 20 },
-      { "taskId": 703, "progress": 0 }
-    ]
-  },
-  "budget": {
-    "totalBudget": 300000,
-    "expenses": 50000,
-    "remainingBudget": 250000
-  }
-},
-{
-  "projectId": 8,
-  "projectOverview": {
-    "name": "E-Commerce Platform Upgrade",
-    "startDate": "2025-01-25",
-    "endDate": "2025-05-30",
-    "status": "In Progress"
-  },
-  "tasks": [
-    {
-      "id": 801,
-      "name": "Backend Improvements",
-      "description": "Optimize backend performance.",
-      "deadline": "2025-03-15",
-      "status": "Completed"
+      "projectId": 11,
+      "projectOverview": {
+        "name": "Mobile Payment Integration",
+        "startDate": "2025-02-01",
+        "endDate": "2025-08-01",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 1101,
+          "name": "Requirement Analysis",
+          "description": "Analyze requirements for mobile payment integration.",
+          "deadline": "2025-02-20",
+          "status": "Completed"
+        },
+        {
+          "id": 1102,
+          "name": "API Development",
+          "description": "Develop APIs for payment processing.",
+          "deadline": "2025-05-01",
+          "status": "In Progress"
+        },
+        {
+          "id": 1103,
+          "name": "Integration Testing",
+          "description": "Test the integration with existing systems.",
+          "deadline": "2025-07-15",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 40,
+        "tasks": [
+          { "taskId": 1101, "progress": 100 },
+          { "taskId": 1102, "progress": 30 },
+          { "taskId": 1103, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 180000,
+        "expenses": 70000,
+        "remainingBudget": 110000
+      }
     },
     {
-      "id": 802,
-      "name": "Frontend Redesign",
-      "description": "Redesign the user interface.",
-      "deadline": "2025-04-30",
-      "status": "In Progress"
+      "projectId": 12,
+      "projectOverview": {
+        "name": "Cloud Migration",
+        "startDate": "2025-03-01",
+        "endDate": "2025-12-01",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 1201,
+          "name": "Assessment",
+          "description": "Assess current infrastructure for cloud migration.",
+          "deadline": "2025-04-01",
+          "status": "Completed"
+        },
+        {
+          "id": 1202,
+          "name": "Planning",
+          "description": "Plan the migration process.",
+          "deadline": "2025-06-01",
+          "status": "In Progress"
+        },
+        {
+          "id": 1203,
+          "name": "Execution",
+          "description": "Execute the migration to the cloud.",
+          "deadline": "2025-11-01",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 35,
+        "tasks": [
+          { "taskId": 1201, "progress": 100 },
+          { "taskId": 1202, "progress": 20 },
+          { "taskId": 1203, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 250000,
+        "expenses": 50000,
+        "remainingBudget": 200000
+      }
     },
     {
-      "id": 803,
-      "name": "Feature Addition",
-      "description": "Add new features to the platform.",
-      "deadline": "2025-05-25",
-      "status": "Pending"
-    }
-  ],
-  "progress": {
-    "totalProgress": 50,
-    "tasks": [
-      { "taskId": 801, "progress": 100 },
-      { "taskId": 802, "progress": 40 },
-      { "taskId": 803, "progress": 0 }
-    ]
-  },
-  "budget": {
-    "totalBudget": 100000,
-    "expenses": 40000,
-    "remainingBudget": 60000
-  }
-}
-  ]
-}
+      "projectId": 13,
+      "projectOverview": {
+        "name": "Data Analytics Dashboard",
+        "startDate": "2025-01-15",
+        "endDate": "2025-05-15",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 1301,
+          "name": "Data Collection",
+          "description": "Collect data from various sources.",
+          "deadline": "2025-02-15",
+          "status": "Completed"
+        },
+        {
+          "id": 1302,
+          "name": "Dashboard Development",
+          "description": "Develop the analytics dashboard.",
+          "deadline": "2025-04-15",
+          "status": "In Progress"
+        },
+        {
+          "id": 1303,
+          "name": "User Testing",
+          "description": "Conduct user testing and gather feedback.",
+          "deadline": "2025-05-10",
+          "status": "Pending"
+        }
+      ],
+      "progress": {
+        "totalProgress": 45,
+        "tasks": [
+          { "taskId": 1301, "progress": 100 },
+          { "taskId": 1302, "progress": 40 },
+          { "taskId": 1303, "progress": 0 }
+        ]
+      },
+      "budget": {
+        "totalBudget": 100000,
+        "expenses": 40000,
+        "remainingBudget": 60000
+      }
+    },
+    {
+      "projectId": 14,
+      "projectOverview": {
+        "name": "Social Media Marketing Tool",
+        "startDate": "2025-02-01",
+        "endDate": "2025-07-01",
+        "status": "In Progress"
+      },
+      "tasks": [
+        {
+          "id": 1401,
+          "name": "Requirement Analysis",
+          "description": "Analyze requirements for the marketing tool.",
+          "deadline": "2025-02-20",
+          "status": "Completed"
+        },
+        {
+          "id": 1402,
+          "name": "Tool Development",
+          "description": "Develop the social media marketing tool.",
+          "deadline": "2025-05-01",
+          "status": "In Progress"
+        },
+        {
+          "id": 1403,
+          "name": "Beta Testing",
+          "description": "Conduct beta testing with selected
