@@ -1,0 +1,673 @@
+{
+  "eWasteCenters": {
+    "Maharashtra": {
+      "Mumbai": [
+        {
+          "id": 1,
+          "name": "Green Tech Recycling Hub",
+          "address": "Shop No. 15, Linking Road, Bandra West, Mumbai - 400050",
+          "phone": "+91 98765 43210",
+          "pincode": "400050"
+        },
+        {
+          "id": 2,
+          "name": "EcoWaste Solutions",
+          "address": "Building No. 42, Andheri Industrial Estate, Andheri East, Mumbai - 400069",
+          "phone": "+91 87654 32109",
+          "pincode": "400069"
+        },
+        {
+          "id": 3,
+          "name": "Digital Waste Management",
+          "address": "Unit 7, Goregaon Link Road, Near Metro Station, Goregaon West, Mumbai - 400104",
+          "phone": "+91 76543 21098",
+          "pincode": "400104"
+        }
+      ],
+      "Pune": [
+        {
+          "id": 4,
+          "name": "Pune Electronic Recyclers",
+          "address": "Plot No. 23, Hinjewadi Phase 1, Pune - 411057",
+          "phone": "+91 95432 10987",
+          "pincode": "411057"
+        },
+        {
+          "id": 5,
+          "name": "SafeTech E-Waste Center",
+          "address": "Shop 8, FC Road, Shivajinagar, Pune - 411005",
+          "phone": "+91 84321 09876",
+          "pincode": "411005"
+        },
+        {
+          "id": 6,
+          "name": "Green Circuit Solutions",
+          "address": "Baner Road, Near Westend Mall, Baner, Pune - 411045",
+          "phone": "+91 73210 98765",
+          "pincode": "411045"
+        },
+        {
+          "id": 7,
+          "name": "Recycle Right Pune",
+          "address": "Karve Road, Opposite Bharati Vidyapeeth, Pune - 411004",
+          "phone": "+91 92109 87654",
+          "pincode": "411004"
+        }
+      ],
+      "Nagpur": [
+        {
+          "id": 8,
+          "name": "Orange City E-Waste Hub",
+          "address": "Central Avenue, Civil Lines, Nagpur - 440001",
+          "phone": "+91 81098 76543",
+          "pincode": "440001"
+        },
+        {
+          "id": 9,
+          "name": "TechCycle Nagpur",
+          "address": "Wardha Road, Laxmi Nagar, Nagpur - 440022",
+          "phone": "+91 70987 65432",
+          "pincode": "440022"
+        },
+        {
+          "id": 10,
+          "name": "Digital Earth Recyclers",
+          "address": "Amravati Road, Near AIIMS, Nagpur - 440033",
+          "phone": "+91 69876 54321",
+          "pincode": "440033"
+        }
+      ],
+      "Nashik": [
+        {
+          "id": 11,
+          "name": "Nashik Green Electronics",
+          "address": "College Road, Nashik Road, Nashik - 422101",
+          "phone": "+91 98765 43201",
+          "pincode": "422101"
+        },
+        {
+          "id": 12,
+          "name": "Eco-Friendly Waste Solutions",
+          "address": "Gangapur Road, Panchavati, Nashik - 422003",
+          "phone": "+91 87654 32012",
+          "pincode": "422003"
+        },
+        {
+          "id": 13,
+          "name": "Clean Tech Recycling",
+          "address": "Mumbai Naka, Opposite City Center Mall, Nashik - 422002",
+          "phone": "+91 76543 21023",
+          "pincode": "422002"
+        }
+      ],
+      "Aurangabad": [
+        {
+          "id": 14,
+          "name": "Marathwada E-Waste Center",
+          "address": "CIDCO, Aurangabad - 431003",
+          "phone": "+91 95432 10234",
+          "pincode": "431003"
+        },
+        {
+          "id": 15,
+          "name": "Smart Recycle Hub",
+          "address": "Jalna Road, Near Airport, Aurangabad - 431005",
+          "phone": "+91 84321 09345",
+          "pincode": "431005"
+        },
+        {
+          "id": 16,
+          "name": "Electronic Waste Warriors",
+          "address": "Station Road, Kranti Chowk, Aurangabad - 431001",
+          "phone": "+91 73210 98456",
+          "pincode": "431001"
+        },
+        {
+          "id": 17,
+          "name": "Green Future Electronics",
+          "address": "Waluj Industrial Area, Aurangabad - 431136",
+          "phone": "+91 92109 87567",
+          "pincode": "431136"
+        }
+      ]
+    },
+    "Karnataka": {
+      "Bangalore": [
+        {
+          "id": 18,
+          "name": "Silicon Valley E-Waste",
+          "address": "Brigade Road, Near Commercial Street, Bangalore - 560001",
+          "phone": "+91 98765 43123",
+          "pincode": "560001"
+        },
+        {
+          "id": 19,
+          "name": "Tech City Recyclers",
+          "address": "Whitefield Main Road, ITPL, Bangalore - 560066",
+          "phone": "+91 87654 32134",
+          "pincode": "560066"
+        },
+        {
+          "id": 20,
+          "name": "Bangalore Green Tech",
+          "address": "Koramangala 5th Block, Bangalore - 560095",
+          "phone": "+91 76543 21145",
+          "pincode": "560095"
+        },
+        {
+          "id": 21,
+          "name": "Digital Bangalore Recycling",
+          "address": "Electronic City Phase 1, Bangalore - 560100",
+          "phone": "+91 95432 10156",
+          "pincode": "560100"
+        }
+      ],
+      "Mysore": [
+        {
+          "id": 22,
+          "name": "Royal City E-Waste",
+          "address": "Sayyaji Rao Road, Near Mysore Palace, Mysore - 570001",
+          "phone": "+91 84321 09167",
+          "pincode": "570001"
+        },
+        {
+          "id": 23,
+          "name": "Mysore Electronics Recycling",
+          "address": "Hunsur Road, Jayalakshmipuram, Mysore - 570012",
+          "phone": "+91 73210 98178",
+          "pincode": "570012"
+        },
+        {
+          "id": 24,
+          "name": "Heritage E-Waste Solutions",
+          "address": "Ring Road, Vijayanagar, Mysore - 570017",
+          "phone": "+91 92109 87189",
+          "pincode": "570017"
+        }
+      ],
+      "Hubli": [
+        {
+          "id": 25,
+          "name": "North Karnataka E-Waste Hub",
+          "address": "Club Road, Hubli - 580028",
+          "phone": "+91 81098 76234",
+          "pincode": "580028"
+        },
+        {
+          "id": 26,
+          "name": "Twin City Recyclers",
+          "address": "Gokul Road, Hubli - 580030",
+          "phone": "+91 70987 65245",
+          "pincode": "580030"
+        },
+        {
+          "id": 27,
+          "name": "Green Hubli Electronics",
+          "address": "Vidya Nagar, Near KSRTC Bus Stand, Hubli - 580031",
+          "phone": "+91 69876 54256",
+          "pincode": "580031"
+        }
+      ],
+      "Mangalore": [
+        {
+          "id": 28,
+          "name": "Coastal E-Waste Center",
+          "address": "Hampankatta, Mangalore - 575001",
+          "phone": "+91 98765 43267",
+          "pincode": "575001"
+        },
+        {
+          "id": 29,
+          "name": "Port City Recycling",
+          "address": "Kankanady, Mangalore - 575002",
+          "phone": "+91 87654 32278",
+          "pincode": "575002"
+        },
+        {
+          "id": 30,
+          "name": "Mangalore Green Solutions",
+          "address": "Bejai, Near KMC Hospital, Mangalore - 575004",
+          "phone": "+91 76543 21289",
+          "pincode": "575004"
+        },
+        {
+          "id": 31,
+          "name": "Arabian Sea E-Waste Hub",
+          "address": "Pandeshwar, Mangalore - 575001",
+          "phone": "+91 95432 10290",
+          "pincode": "575001"
+        }
+      ],
+      "Belgaum": [
+        {
+          "id": 32,
+          "name": "Border City E-Waste",
+          "address": "Tilakwadi, Belgaum - 590006",
+          "phone": "+91 84321 09301",
+          "pincode": "590006"
+        },
+        {
+          "id": 33,
+          "name": "Belgaum Electronic Recyclers",
+          "address": "Camp Area, Near Railway Station, Belgaum - 590001",
+          "phone": "+91 73210 98312",
+          "pincode": "590001"
+        },
+        {
+          "id": 34,
+          "name": "Green Border Solutions",
+          "address": "Hindwadi, Belgaum - 590011",
+          "phone": "+91 92109 87323",
+          "pincode": "590011"
+        }
+      ]
+    },
+    "Tamil Nadu": {
+      "Chennai": [
+        {
+          "id": 35,
+          "name": "Chennai E-Waste Solutions",
+          "address": "T. Nagar, Near Pondy Bazaar, Chennai - 600017",
+          "phone": "+91 98765 43334",
+          "pincode": "600017"
+        },
+        {
+          "id": 36,
+          "name": "Marina City Recyclers",
+          "address": "Anna Nagar, Chennai - 600040",
+          "phone": "+91 87654 32345",
+          "pincode": "600040"
+        },
+        {
+          "id": 37,
+          "name": "Tech Park E-Waste Hub",
+          "address": "OMR Road, Sholinganallur, Chennai - 600119",
+          "phone": "+91 76543 21356",
+          "pincode": "600119"
+        },
+        {
+          "id": 38,
+          "name": "Madras Green Electronics",
+          "address": "Adyar, Near Cancer Institute, Chennai - 600020",
+          "phone": "+91 95432 10367",
+          "pincode": "600020"
+        }
+      ],
+      "Coimbatore": [
+        {
+          "id": 39,
+          "name": "Textile City E-Waste Center",
+          "address": "R.S. Puram, Coimbatore - 641002",
+          "phone": "+91 84321 09378",
+          "pincode": "641002"
+        },
+        {
+          "id": 40,
+          "name": "Kovai Electronics Recycling",
+          "address": "Gandhipuram, Near Central Bus Stand, Coimbatore - 641012",
+          "phone": "+91 73210 98389",
+          "pincode": "641012"
+        },
+        {
+          "id": 41,
+          "name": "Western Ghats E-Waste",
+          "address": "Peelamedu, Coimbatore - 641004",
+          "phone": "+91 92109 87390",
+          "pincode": "641004"
+        }
+      ],
+      "Madurai": [
+        {
+          "id": 42,
+          "name": "Temple City Recyclers",
+          "address": "Anna Nagar, Madurai - 625020",
+          "phone": "+91 81098 76401",
+          "pincode": "625020"
+        },
+        {
+          "id": 43,
+          "name": "Madurai Green Solutions",
+          "address": "K.K. Nagar, Near Meenakshi Temple, Madurai - 625009",
+          "phone": "+91 70987 65412",
+          "pincode": "625009"
+        },
+        {
+          "id": 44,
+          "name": "Pandyan E-Waste Hub",
+          "address": "Sellur, Madurai - 625002",
+          "phone": "+91 69876 54423",
+          "pincode": "625002"
+        },
+        {
+          "id": 45,
+          "name": "Cultural City Electronics",
+          "address": "Goripalayam, Madurai - 625002",
+          "phone": "+91 98765 43434",
+          "pincode": "625002"
+        }
+      ],
+      "Trichy": [
+        {
+          "id": 46,
+          "name": "Rock Fort E-Waste Center",
+          "address": "Cantonment, Trichy - 620001",
+          "phone": "+91 87654 32445",
+          "pincode": "620001"
+        },
+        {
+          "id": 47,
+          "name": "Cauvery Electronics Recycling",
+          "address": "Srirangam Road, Trichy - 620006",
+          "phone": "+91 76543 21456",
+          "pincode": "620006"
+        },
+        {
+          "id": 48,
+          "name": "Central Tamil Nadu E-Waste",
+          "address": "Thillai Nagar, Trichy - 620018",
+          "phone": "+91 95432 10467",
+          "pincode": "620018"
+        }
+      ],
+      "Salem": [
+        {
+          "id": 49,
+          "name": "Steel City E-Waste Hub",
+          "address": "Junction Main Road, Salem - 636001",
+          "phone": "+91 84321 09478",
+          "pincode": "636001"
+        },
+        {
+          "id": 50,
+          "name": "Salem Green Electronics",
+          "address": "Cherry Road, Salem - 636007",
+          "phone": "+91 73210 98489",
+          "pincode": "636007"
+        },
+        {
+          "id": 51,
+          "name": "Mango City Recyclers",
+          "address": "Fairlands, Salem - 636016",
+          "phone": "+91 92109 87490",
+          "pincode": "636016"
+        },
+        {
+          "id": 52,
+          "name": "Industrial Salem E-Waste",
+          "address": "Hasthampatti, Salem - 636007",
+          "phone": "+91 81098 76501",
+          "pincode": "636007"
+        }
+      ]
+    },
+    "Delhi": {
+      "New Delhi": [
+        {
+          "id": 53,
+          "name": "Capital E-Waste Solutions",
+          "address": "Connaught Place, Central Delhi, New Delhi - 110001",
+          "phone": "+91 98765 43512",
+          "pincode": "110001"
+        },
+        {
+          "id": 54,
+          "name": "Delhi Green Tech Hub",
+          "address": "Karol Bagh, New Delhi - 110005",
+          "phone": "+91 87654 32523",
+          "pincode": "110005"
+        },
+        {
+          "id": 55,
+          "name": "Parliament Street Recyclers",
+          "address": "Rajpath Area, New Delhi - 110001",
+          "phone": "+91 76543 21534",
+          "pincode": "110001"
+        }
+      ],
+      "Gurgaon": [
+        {
+          "id": 56,
+          "name": "Millennium City E-Waste",
+          "address": "Cyber City, Gurgaon - 122002",
+          "phone": "+91 95432 10545",
+          "pincode": "122002"
+        },
+        {
+          "id": 57,
+          "name": "Gurgaon Electronics Recycling",
+          "address": "MG Road, Gurgaon - 122001",
+          "phone": "+91 84321 09556",
+          "pincode": "122001"
+        },
+        {
+          "id": 58,
+          "name": "Corporate Hub E-Waste",
+          "address": "Sector 14, Near Huda City Centre, Gurgaon - 122001",
+          "phone": "+91 73210 98567",
+          "pincode": "122001"
+        },
+        {
+          "id": 59,
+          "name": "Smart City Recyclers",
+          "address": "Golf Course Road, Gurgaon - 122002",
+          "phone": "+91 92109 87578",
+          "pincode": "122002"
+        }
+      ],
+      "Noida": [
+        {
+          "id": 60,
+          "name": "Planned City E-Waste Hub",
+          "address": "Sector 18, Noida - 201301",
+          "phone": "+91 81098 76589",
+          "pincode": "201301"
+        },
+        {
+          "id": 61,
+          "name": "Noida Green Solutions",
+          "address": "Sector 62, Near Electronic City, Noida - 201309",
+          "phone": "+91 70987 65590",
+          "pincode": "201309"
+        },
+        {
+          "id": 62,
+          "name": "Greater Noida Electronics",
+          "address": "Sector 1, Greater Noida - 201306",
+          "phone": "+91 69876 54601",
+          "pincode": "201306"
+        }
+      ],
+      "Faridabad": [
+        {
+          "id": 63,
+          "name": "Industrial City E-Waste",
+          "address": "Sector 16, Faridabad - 121002",
+          "phone": "+91 98765 43612",
+          "pincode": "121002"
+        },
+        {
+          "id": 64,
+          "name": "Faridabad Recycling Center",
+          "address": "NIT Area, Faridabad - 121001",
+          "phone": "+91 87654 32623",
+          "pincode": "121001"
+        },
+        {
+          "id": 65,
+          "name": "Haryana Border E-Waste",
+          "address": "Old Faridabad, Faridabad - 121002",
+          "phone": "+91 76543 21634",
+          "pincode": "121002"
+        },
+        {
+          "id": 66,
+          "name": "Metro City Electronics",
+          "address": "Sector 15, Near Metro Station, Faridabad - 121007",
+          "phone": "+91 95432 10645",
+          "pincode": "121007"
+        }
+      ],
+      "Ghaziabad": [
+        {
+          "id": 67,
+          "name": "Gateway E-Waste Solutions",
+          "address": "Raj Nagar, Ghaziabad - 201002",
+          "phone": "+91 84321 09656",
+          "pincode": "201002"
+        },
+        {
+          "id": 68,
+          "name": "UP Border Recyclers",
+          "address": "Kaushambi, Ghaziabad - 201010",
+          "phone": "+91 73210 98667",
+          "pincode": "201010"
+        },
+        {
+          "id": 69,
+          "name": "Ghaziabad Green Tech",
+          "address": "Lohia Nagar, Ghaziabad - 201001",
+          "phone": "+91 92109 87678",
+          "pincode": "201001"
+        }
+      ]
+    },
+    "Gujarat": {
+      "Ahmedabad": [
+        {
+          "id": 70,
+          "name": "Commercial Capital E-Waste",
+          "address": "C.G. Road, Navrangpura, Ahmedabad - 380009",
+          "phone": "+91 98765 43689",
+          "pincode": "380009"
+        },
+        {
+          "id": 71,
+          "name": "Sabarmati Electronics Hub",
+          "address": "Paldi, Ahmedabad - 380007",
+          "phone": "+91 87654 32690",
+          "pincode": "380007"
+        },
+        {
+          "id": 72,
+          "name": "Gujarat Green Solutions",
+          "address": "Satellite Road, Ahmedabad - 380015",
+          "phone": "+91 76543 21701",
+          "pincode": "380015"
+        },
+        {
+          "id": 73,
+          "name": "Heritage City Recyclers",
+          "address": "Vastrapur, Near Gujarat University, Ahmedabad - 380052",
+          "phone": "+91 95432 10712",
+          "pincode": "380052"
+        }
+      ],
+      "Surat": [
+        {
+          "id": 74,
+          "name": "Diamond City E-Waste Hub",
+          "address": "Ring Road, Surat - 395002",
+          "phone": "+91 84321 09723",
+          "pincode": "395002"
+        },
+        {
+          "id": 75,
+          "name": "Tapi River Electronics",
+          "address": "Citylight Area, Surat - 395007",
+          "phone": "+91 73210 98734",
+          "pincode": "395007"
+        },
+        {
+          "id": 76,
+          "name": "Textile City Recycling",
+          "address": "Adajan, Surat - 395009",
+          "phone": "+91 92109 87745",
+          "pincode": "395009"
+        }
+      ],
+      "Vadodara": [
+        {
+          "id": 77,
+          "name": "Cultural City E-Waste",
+          "address": "Alkapuri, Vadodara - 390007",
+          "phone": "+91 81098 76756",
+          "pincode": "390007"
+        },
+        {
+          "id": 78,
+          "name": "Sayaji E-Waste Solutions",
+          "address": "Race Course Road, Vadodara - 390007",
+          "phone": "+91 70987 65767",
+          "pincode": "390007"
+        },
+        {
+          "id": 79,
+          "name": "Baroda Green Electronics",
+          "address": "Manjalpur, Vadodara - 390011",
+          "phone": "+91 69876 54778",
+          "pincode": "390011"
+        },
+        {
+          "id": 80,
+          "name": "Industrial Vadodara Hub",
+          "address": "GIDC, Makarpura, Vadodara - 390010",
+          "phone": "+91 98765 43789",
+          "pincode": "390010"
+        }
+      ],
+      "Rajkot": [
+        {
+          "id": 81,
+          "name": "Saurashtra E-Waste Center",
+          "address": "Kalawad Road, Rajkot - 360005",
+          "phone": "+91 87654 32790",
+          "pincode": "360005"
+        },
+        {
+          "id": 82,
+          "name": "Rajkot Electronics Recycling",
+          "address": "University Road, Rajkot - 360005",
+          "phone": "+91 76543 21801",
+          "pincode": "360005"
+        },
+        {
+          "id": 83,
+          "name": "Kathiawar Green Solutions",
+          "address": "Gondal Road, Rajkot - 360002",
+          "phone": "+91 95432 10812",
+          "pincode": "360002"
+        }
+      ],
+      "Gandhinagar": [
+        {
+          "id": 84,
+          "name": "Capital City E-Waste Hub",
+          "address": "Sector 1, Gandhinagar - 382010",
+          "phone": "+91 84321 09823",
+          "pincode": "382010"
+        },
+        {
+          "id": 85,
+          "name": "Planned City Recyclers",
+          "address": "Sector 7, Near Secretariat, Gandhinagar - 382007",
+          "phone": "+91 73210 98834",
+          "pincode": "382007"
+        },
+        {
+          "id": 86,
+          "name": "Gandhinagar Green Tech",
+          "address": "Sector 15, Gandhinagar - 382015",
+          "phone": "+91 92109 87845",
+          "pincode": "382015"
+        },
+        {
+          "id": 87,
+          "name": "Administrative Capital E-Waste",
+          "address": "Sector 21, Gandhinagar - 382021",
+          "phone": "+91 81098 76856",
+          "pincode": "382021"
+        }
+      ]
+    }
+  }
+}

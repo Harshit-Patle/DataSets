@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "headline": "India's rising e-waste, the need to recast its management",
+      "url": "https://www.thehindu.com/opinion/op-ed/indias-rising-e-waste-the-need-to-recast-its-management/article69568262.ece"
+    },
+    {
+      "id": 2,
+      "headline": "Delhi: Solar powered centre to collect e-waste unveiled at Khan Market",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-solar-powered-centre-to-collect-e-waste-unveiled-at-khan-market/articleshow/121973767.cms"
+    },
+    {
+      "id": 3,
+      "headline": "Attero to invest Rs 100 crore to scale up rare earth recycling capacity to 30,000 tonnes",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/attero-to-invest-rs-100-crore-to-scale-up-rare-earth-recycling-capacity-to-30000-tonnes/articleshow/121951786.cms"
+    },
+    {
+      "id": 4,
+      "headline": "Samsung, LG, Voltas and others join legal fight against India's e-waste recycling mandate: All you need to know",
+      "url": "https://www.livemint.com/companies/news/samsung-lg-voltas-and-others-join-legal-fight-against-india-s-e-waste-recycling-mandate-all-you-need-to-know-11745332125548.html"
+    },
+    {
+      "id": 5,
+      "headline": "India's e-waste surges by 73% in 5 years",
+      "url": "https://www.downtoearth.org.in/waste/indias-e-waste-surges-by-73-in-5-years"
+    },
+    {
+      "id": 6,
+      "headline": "India becomes third-largest e-waste generator as tech boom fuels surge",
+      "url": "https://www.fortuneindia.com/business-news/india-becomes-third-largest-e-waste-generator-as-tech-boom-fuels-surge/121182"
+    },
+    {
+      "id": 7,
+      "headline": "India's first e-waste recycling park to be built in Delhi: Sirsa",
+      "url": "https://www.thehindu.com/news/cities/Delhi/indias-first-e-waste-recycling-park-to-be-built-in-delhi-sirsa/article69676213.ece"
+    },
+    {
+      "id": 8,
+      "headline": "Burning old TVs to survive: The toxic trade in electrical waste",
+      "url": "https://www.bbc.com/news/articles/c4gvq1rd0geo"
+    },
+    {
+      "id": 9,
+      "headline": "As electronic waste surges, countries look for answers",
+      "url": "https://www.unep.org/news-and-stories/story/electronic-waste-surges-countries-look-answers"
+    },
+    {
+      "id": 10,
+      "headline": "Why e-waste is becoming an issue",
+      "url": "https://greenly.earth/en-gb/blog/industries/why-e-waste-is-becoming-an-issue"
+    }
+  ]
+}
